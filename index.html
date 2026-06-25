@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>CBSE English Complete - Class 11 & 12</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css"/>
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <link href="https://fonts.googleapis.com/css2 family=Inter:wght@400;500;600;700;900&display=swap" rel="stylesheet"/>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400;1,700&display=swap" rel="stylesheet"/>
+    <link rel="stylesheet" href="./frontend/css/style.css"/>
+</head>
+<body>
+
+    <div class="sidebar-overlay" id="sidebarOverlay"></div>
+
+    <!-- ===== SIDEBAR ===== -->
+    <aside class="sidebar" id="sidebar">
+        <div class="sidebar-header">
+            <h1><i class="fas fa-book-open"></i> CBSE English</h1>
+            <button class="close-btn" id="closeSidebar"><i class="fas fa-times"></i></button>
+        </div>
+        <div class="sidebar-search">
+            <div class="search-wrapper">
+                <i class="fas fa-search search-icon"></i>
+                <input type="text" id="sidebarSearch" placeholder="Search topics..." />
+            </div>
+        </div>
+        <nav class="sidebar-nav" id="sidebarNav"></nav>
+    </aside>
+
+    <!-- ===== WORKSPACE ===== -->
+    <main class="main-content">
+        <header class="topbar">
+            <div class="topbar-left">
+                <button class="hamburger" id="hamburgerBtn"><i class="fas fa-bars"></i></button>
+                <div class="breadcrumb" id="breadcrumb" style="font-weight: 600;">Viewer</div>
+            </div>
+            <div class="topbar-actions">
+                <button onclick="window.print()"><i class="fas fa-print"></i></button>
+            </div>
+        </header>
+
+        <div class="content-area" id="contentArea">
+            <div style="text-align:center; padding:40px; font-weight:700;">Loading Book Viewport...</div>
+        </div>
+    </main>
+<script src="./frontend/js/script.js"></script>
+   
+</body>
+</html>
