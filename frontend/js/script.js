@@ -24,7 +24,6 @@
             for (const [cls, items] of Object.entries(sections)) {
                 html += `<div class="nav-section"><div class="nav-section-title">Class ${cls}</div>`;
                 items.forEach(item => {
-                    // Removed extra page references and cleanly display item names only
                     let cleanTitle = item.title.replace(/\s*\(\s*\d+\s*pages?\s*\)/i, '');
                     html += `
                         <div class="nav-item" id="nav-${item.id}" onclick="loadContent('${item.id}')">
@@ -38,7 +37,6 @@
             nav.innerHTML = html;
         }
 
-        // Core processing structural compiler engine for book layouts
         function convertMarkdownToBookFormat(htmlContent) {
             const parserNode = document.createElement('div');
             parserNode.innerHTML = htmlContent;
@@ -62,11 +60,10 @@
                 }
 
                 let rawText = node.innerText.trim();
-                // Clean any page strings out of node texts dynamically
                 rawText = rawText.replace(/\s*\(\s*\d+\s*pages?\s*\)/i, '');
                 const tag = node.tagName;
 
-                // Capture major section headings to clear any column splitting errors
+                // Capture major section headings to prevent splitting
                 if (tag === 'H1' || tag === 'H2' || tag === 'H3' || 
                     rawText.toLowerCase() === 'justification of title' || 
                     rawText.toLowerCase() === 'theme' || 
@@ -83,9 +80,9 @@
                     blockHeader.innerText = rawText;
                     
                     finalLayoutWrapper.appendChild(blockHeader);
-                    makeNewColumnBlock(); // Reset column flow right beneath header lines
+                    makeNewColumnBlock(); 
                 } 
-                // Outer simple box container for answers or advertisements
+                // Outer simple box container for advertisements
                 else if (tag === 'BLOCKQUOTE') {
                     const answerBox = document.createElement('div');
                     answerBox.className = 'book-answer-box';
