@@ -32,8 +32,7 @@
             min-height: 100vh;
             font-size: 16px;
         }
-
-        /* ===== ORIGINAL BLUE & ORANGE SIDEBAR ===== */
+        /* Navigation sidebar */
         .sidebar {
             position: fixed;
             top: 0;
@@ -157,7 +156,7 @@
             color: var(--accent);
         }
 
-        /* ===== CONTENT CORE VIEWPORT ===== */
+        /* Content area */
         .main-content {
             margin-left: var(--sidebar-width);
             flex: 1;
@@ -189,7 +188,7 @@
             cursor: pointer;
         }
 
-        /* ===== TWO COLUMN TEXTBOOK DISPLAY ===== */
+        /* TWO COLUMN TEXTBOOK DISPLAY  */
         .content-area {
             padding: 40px;
             max-width: 1200px;
@@ -217,7 +216,7 @@
             color: #000000;
         }
 
-        /* Standard 2 Columns for general text content flow */
+        /* book columns */
         .book-columns {
             column-count: 2;
             column-gap: 3.5rem;
@@ -225,7 +224,7 @@
             text-align: justify;
         }
 
-        /* Extends right across columns to fix splitting errors like in image_3f24c4.png */
+        /* splitting prevention*/
         .book-section-heading {
             column-span: all;
             font-family: 'Playfair Display', serif;
@@ -241,7 +240,7 @@
             width: 100%;
         }
 
-        /* Custom treatment for Questions */
+        /* Questions */
         .book-question {
             font-weight: 700;
             margin-top: 1.5rem;
@@ -251,7 +250,7 @@
             break-inside: avoid;
         }
 
-        /* Clean Single-Line Simple Outer Box for Answers & Advertisements */
+        /* boxed answer*/
         .book-answer-box {
             break-inside: avoid;
             border: 1px solid #000000;
@@ -263,7 +262,7 @@
             font-size: 15.5px;
         }
 
-        /* Centered Box Headlines (Much heavier bold setting) */
+        /* Centered heading for boxed answers*/
         .box-title-center {
             text-align: center;
             font-family: 'Playfair Display', serif;
@@ -296,7 +295,7 @@
             font-family: 'Inter', sans-serif;
         }
 
-        /* ===== OVERLAY & RESPONSIVE ===== */
+        /* Responsive */
         .sidebar-overlay {
             position: fixed;
             inset: 0;
