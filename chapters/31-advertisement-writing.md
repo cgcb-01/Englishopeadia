@@ -73,6 +73,6 @@ You are Ramesh/Priyanka an Hons Graduate in History with specialisation in medie
 >[br] contact no: 999751234
 
 **Question 3:-**[br]
-Principal, Sunrise Global School, Agra requies a receptionist for her school. Drafta suitable advertisement to be published in the classified columns of a national newspaper giving all the necessary details of qualification and experience needed.
+Principal, Sunrise Global School, Agra requies a receptionist for her school. Draft a suitable advertisement to be published in the classified columns of a national newspaper giving all the necessary details of qualification and experience needed.
 
->**
+>**Situtation vacant*
