@@ -225,7 +225,7 @@ body {
     text-align: justify;
 }
 
-/* Manual two-column split (triggered by [[split]]) */
+/* Two-column split (triggered by [[split]]) */
 .col-split-wrap {
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -258,7 +258,7 @@ body {
     }
 }
 
-/* Section headings (prevent splitting) */
+/* Section headings (Where [[split]] stops) */
 .book-section-heading {
     font-family: 'Playfair Display', serif;
     font-size: 28px;
