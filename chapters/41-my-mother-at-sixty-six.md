@@ -92,6 +92,8 @@ Ans: The poet during her way back to cochin from her Parent's home saw that her 
 [br]
 [br]
 
+[[split]]
+
 [Q]4. Why has the mother been compared to the ‘late winter’s moon’?[/Q]
 [br]
 [br]
