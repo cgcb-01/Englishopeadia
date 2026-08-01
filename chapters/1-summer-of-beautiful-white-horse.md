@@ -5,8 +5,9 @@ The Full story is based on Author and Mourad's experience in riding a horse that
 
 It also reflects that even when the whole village considers Mourad as a crazy boy, the story shows that he is caring towards animals, he loves them treats them with affection, helps them and also treats their wounds, he has a soft and caring soul, also he takes decision with proper reasoning. 
 
-It also shows that how they maintained their family pride of being honest, and they agreed to return the horse because of the firm believe of the horse owners when he even after recognizing his horse he said that this horse could be duplicate of his own horse but not his horse just because Author's family are always honest and so cant steal, It was his family's pride, the farmers belief that made them return the horse.
+It also shows that how they maintained their family pride of being honest, and they agreed to return the horse because of the firm believe of the horse owner  [[split]]  when he even after recognizing his horse he said that this horse could be duplicate of his own horse but not his horse just because Author's family are always honest and so cant steal, It was his family's pride, the farmers belief that made them return the horse.
 <br>
+
 ## Justification of the Title:
 The title is justified because the story is set at a time in summer during authors childhood and revolves around a magnificent, beautiful, white horse that author's cousin Mourad had somehow managed to have it for few days, in the story the author writes about his experience in horse riding how they used ride the horse keeping it a secret from the other family, what dilemma he had before he made his first ride on the horse, their family's pride that they are known for being honest and the reason why they returned the horse.
 
@@ -16,7 +17,9 @@ The title is justified because the story is set at a time in summer during autho
 - **John Byro:** The farmer who owns the horse, a kind and understanding man.
 
 ## Important Questions
-1. Why did Mourad steal the horse?
+[Q]1. Why did Mourad steal the horse? [/Q]
+
+ANS: Mourad stole the horse because he wanted to rise the horse, also he has a special attachment to animals thus to take 
 2. How did Aram feel about the horse?
 3. What does the story teach us about honesty?
 
