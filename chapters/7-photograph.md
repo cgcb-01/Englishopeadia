@@ -71,7 +71,25 @@ ANS: The poet's mother lost her childhood and the sea holiday of her at the sea 
 [Q]6. What is the meaning of the line "It's silence silences" ?[/Q]
 [br]
 
-ANS: 
+ANS: Author's mother has died many years before. Her death, and the sadness, pain, and grief  that came into author's life after loosing his mother represents the silence. The silence in the pain and suffering coming from death is reflected here.
+[br]
+
+[Q]7. What comparison the poet draws between his mother and the sea?[/Q]
+[br]
+or,[br]
+What the poet meant by "terribly transient feet", and why he referred to it?
+[br]
+
+ANS: Human beings and their stages of life are terribly transient or changes very fast. Whearas the Sea is changeless and iternal. By sea water washes their terribly transient feet author meant that the sea water which is changeless, washed away their small feet, but the small feet is very temporary as quickly the small feet grows in size and his mother from a small child grew up and with time she grew old and also left the world but the sea still remained same. So he said terribly transient feet.
+[br]
+
+[Q]8. What does the use of three different stanza symbolize?[/Q]
+[br]
+
+ANS:  The three stanza reflects three phases of life of Author's Mother. The first stanza reflects the time when she was a child. The second stanza reflects the time of her adulthood. And the third stanza reflects her death. [br]
+
+[Q]9. 
+
 
 
 
