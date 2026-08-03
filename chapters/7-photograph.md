@@ -37,6 +37,8 @@ Its silence silences." [/Q]
 
 ANS: 
 
+## NCERT-Helping hand
+
 ## Important Questions
 
 [Q]1. Why the word Cardboard is used?[/Q]
