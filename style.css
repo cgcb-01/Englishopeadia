@@ -331,6 +331,28 @@ body {
     font-family: 'Inter', sans-serif;
 }
 
+/* Centred block from [C]…[/C] */
+.qa-center {
+    text-align: center;
+    display: block;
+    margin: 1.2rem 0;
+}
+
+/* Underline from [U]…[/U] */
+.qa-underline {
+    text-decoration: underline;
+}
+
+/* Standout bold from [B]…[/B] */
+.qa-standout-bold {
+    font-weight: 900;
+    font-size: 1.2em;
+    letter-spacing: 0.6px;
+    text-transform: uppercase;
+    color: #000;             
+    display: inline-block;     
+}
+
 /* ===== OVERLAY (mobile) ===== */
 .sidebar-overlay {
     position: fixed;
@@ -361,3 +383,4 @@ body {
         display: block;
     }
 }
+
