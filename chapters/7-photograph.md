@@ -88,7 +88,14 @@ ANS: Human beings and their stages of life are terribly transient or changes ver
 
 ANS:  The three stanza reflects three phases of life of Author's Mother. The first stanza reflects the time when she was a child. The second stanza reflects the time of her adulthood. And the third stanza reflects her death. [br]
 
-[Q]9. 
+[Q]9. [/Q]
+
+Tomorrow to do:
+1. Keeping Quiet
+2. Third level
+3. Discovering Tut.
+4. 10 notice writing
+5. 10 Invitation writing. (invitation)
 
 
 
