@@ -225,7 +225,6 @@ body {
     text-align: justify;
 }
 
-/* Two-column split (triggered by [[split]]) */
 .col-split-wrap {
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -276,17 +275,15 @@ body {
 /* Q‑tag (bold & larger) */
 .qa-q {
     font-weight: 900;
-    font-size: 1em;          /* slightly larger */
+    font-size: 1em;    
     color: #000000;
     margin-top: 1.4rem;
     margin-bottom: 0.5rem;
     display: block;
-    font-family: 'Playfair Display', serif;  /* heavier, more elegant font */
+    font-family: 'Playfair Display', serif; 
     letter-spacing: 0.3px;
-    text-shadow: 0.5px 0.5px 0 rgba(0,0,0,0.05); /* subtle depth */
+    text-shadow: 0.5px 0.5px 0 rgba(0,0,0,0.05); 
 }
-
-
 
 /* Boxed answer */
 .book-answer-box {
@@ -346,9 +343,9 @@ body {
 /* Standout bold from [B]…[/B] */
 .qa-standout-bold {
     font-weight: 900;
-    font-size: 1.2em;
+    font-size: 1.4em;
     letter-spacing: 0.6px;
-    text-transform: uppercase;
+    font-family: 'Playfair Display', serif;
     color: #000;             
     display: inline-block;     
 }
