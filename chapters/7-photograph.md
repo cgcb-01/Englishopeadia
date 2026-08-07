@@ -2,7 +2,7 @@
 
 ## Understanding the Text
 
-1. [Q] "The cardboard shows me how it was[br]
+1. [Q] " The cardboard shows me how it was[br]
 When the two girl cousins went paddling,[br]
 Each one holding one of my mother’s hands,[br]
 And she the big girl — some twelve years or so.[br]
@@ -10,8 +10,8 @@ All three stood still to smile through their hair[br]
 At the uncle with the camera. A sweet face,[br]
 My mother’s, that was before I was born.[br]
 And the sea, which appears to have changed less,[br]
-Washed their terribly transient feet.[br] [/Q]
-
+Washed their terribly transient feet. "[br] [/Q]
+[br]
 ANS: The Poet says about a Cardboard Image. In old days the images were framed using cradboard, so inorder to reflect that the image is very old. poet uses the word cardboard Image.
 He then describes the photo which had captured a childhood memory of her mother when she was about twelve years old. She was seen near a sea beach holding the hands of her two counsin from both side, the sea waves were washing their small feet and all three were smiling through their hair looking at the camera.
 The poet also says that the sea has changed little, inorder to say that the sea waves are iternal and 
@@ -65,6 +65,8 @@ Around twenty to thirty years later when she again saw the Photograph she had la
 The photograph connected both of their Past. Author's mother recalled her childhood seeing the photograph. And author recalled his Mother's laughter years after her death, seeig the same same photograph.
 [br]
 
+[[split]]
+
 [Q]5. What do you means by "laboured ease of loss" [/Q]
 [br]
 
@@ -90,14 +92,7 @@ ANS: Human beings and their stages of life are terribly transient or changes ver
 
 ANS:  The three stanza reflects three phases of life of Author's Mother. The first stanza reflects the time when she was a child. The second stanza reflects the time of her adulthood. And the third stanza reflects her death. [br]
 
-[Q]9. [/Q]
 
-Tomorrow to do:
-1. Keeping Quiet
-2. Third level
-3. Discovering Tut.
-4. 10 notice writing
-5. 10 Invitation writing. (invitation)
 
 
 
