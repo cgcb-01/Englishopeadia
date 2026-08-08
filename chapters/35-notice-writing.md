@@ -30,14 +30,13 @@
 ## Examples of few Solved Questions
 
 [Q]1. CATEGORY: EVENT[br]
-Your School is Organizing an Educational Fair in the school premises. As the Head boy/ Head Girl of Sunshine Public School, Agra, draft a notice informing students of class IX - XII about the fair. Include other necessary details. You are Muskan/Manoj. [CBSE 2025] [/Q]
-[br]
+Your School is Organizing an Educational Fair in the school premises. As the Head boy/ Head Girl of Sunshine Public School, Agra, draft a notice informing students of class IX - XII about the fair. Include other necessary details. You are Muskan/Manoj. [CBSE 2025] [/Q] [br]
 
 >[C]Sunshine Public School, Delhi[/C]
 >**NOTICE**
 >7th August, 2026
 >[C][U]SUMMER EDUCATIONAL FAIR[/U][/C]
->We are pleased to inform you that the school is organising an Educational fair in its campus premises where we are bringing for you more than 50 exciting stores by some of the prominent publishing houses, thus giving you a wide collection of famous books written by varoius worldclass popular authors and that too on your table. The event will take place on 13th August,2026 from 10 am at Schools Main ground.
+>We are pleased to inform you that the school is organising an Educational fair in its campus premises where we are bringing for you more than 50 exciting stores by some of the prominent publishing houses, thus giving you a wide collection of famous books written by varoius worldclass popular authors and that too on your table. The event will take place on 13th August,2026 from 10 AM at Schools Main ground.
 >[br]All students and their respected guardians are cordially invited.
 >[br]
 >[br]Muskan
@@ -48,14 +47,14 @@ Your School is Organizing an Educational Fair in the school premises. As the Hea
 
 [Q]2. CATEGORY: COMPETITION[br]
  Your School is Organising an Inter-House 'Maths Quiz' Competition. As president of the Quiz Club draft a notice informing students of class XI-XII about the competition. Include necessary details regarding the number of participants, registration date, etc. You are Akila /Akhil.
- [CBSE 2025] [/Q]
+ [CBSE 2025] [/Q] 
 [br]
 
 >[C]ABC public school, Delhi[/C]
 >**NOTICE**
 >7th December,2026
 >[C][U]QUIZZO INTELLIGENCE[/C][/U]
->This is to inform you that our school is organising an inter house maths quiz competition for class XI-XII, on 23rd July,2026 from 9 am in Vivekanda Auditorium, School campus. Each group must have exactly three students and only first 40 registered teams will be able to participate. Registration closes on 20th December,2026. 
+>This is to inform you that our school is organising an inter house maths quiz competition for class XI-XII, on 23rd July,2026 from 9 AM in Vivekanda Auditorium, School campus. Each group must have exactly three students and only first 40 registered teams will be able to participate. Registration closes on 20th December,2026. 
 >[br]Interested students are requested to give their group names in the Student activity centre as early as possible.[br]
 >[br]Akila
 >[br]Head girl
@@ -87,7 +86,7 @@ Your School is Organizing an Educational Fair in the school premises. As the Hea
 >**NOTICE**
 >8th January,2026
 >[C][U] SCIENCE FOR FUN[/U][/C]
-> This is to bring to you that the Science club is organising a Science model making Competition for the class of XI to XII on 20th January,2026 at Science club Activity centre. The event and the model Exhibition will commence from 10 am. The former ISRO Scientist Mr. Sandeep Mahanty is going to grace the event as our Chief Guest.
+> This is to bring to you that the Science club is organising a Science model making Competition for the class of XI to XII on 20th January,2026 at Science club Activity centre. The event and the model Exhibition will commence from 10 AM. The former ISRO Scientist Mr. Sandeep Mahanty is going to grace the event as our Chief Guest.
 >[br]Interested Students are requested to submit their names and their group information to the Science Club Activity centre before 10th January,2026
 >[br]For more details contact the undersigned[br]
 >[br]Mitali
@@ -154,7 +153,7 @@ Your school is organizing a one-day educational trip to the Indian Museum and Vi
 >**NOTICE**
 >23rd April,2026
 >[C][U]CHECK YOUR HEALTH EARLY! STAY WELL![/U][/C]
->This is to inform you that a free health Check-up camp is going to be organised in your school for the students of class V to XII. The event is organised in collaboration with a team of doctors from the reputed ABC hospital, ranchi and will take place on 26th April, 2026 from 9 am in the Vivekananda hall. 
+>This is to inform you that a free health Check-up camp is going to be organised in your school for the students of class V to XII. The event is organised in collaboration with a team of doctors from the reputed ABC hospital, ranchi and will take place on 26th April, 2026 from 9 AM in the Vivekananda hall. 
 >[br]Presence of each Student in this health checkup drive is compulsory.[br]
 >[br]Rohan
 >[br]Head Boy
@@ -191,8 +190,53 @@ Your school is organizing a one-day educational trip to the Indian Museum and Vi
 
 [br]
 
-11. A scientific calculator has been found in the Physics laboratory after practical classes. As the Lab Captain of Oxford Public School, Patna, draft a notice informing students about the same. *HINT:(Mention where it can be claimed and the identification procedure)*. You are Dev/Diya.
+[Q]11. A scientific calculator has been found in the Physics laboratory after practical classes. As the Lab Captain of Oxford Public School, Patna, draft a notice informing students about the same. [ HINT:*Mention where it can be claimed and the identification procedure*]. You are Dev/Diya.[/Q]
+[br]
 
-12. Your school is organizing a Cleanliness Awareness Rally in the nearby locality under the Swachh Bharat Abhiyan. As the President of the Eco Club of Bright Future School, Kanpur, draft a notice inviting students of Classes IX–XII to participate. *HINT: (Include the date, reporting time, route, dress code and other relevant details)*. You are Keshav/Kavya.
+>[C]Oxford Public School, Patna[/C]
+>**NOTICE**
+>15th February,2026
+>[C][U]FOUND A SCIENTIFIC CALCULATOR[/U][/C]
+>This is to bring to you that a scientific calculator is being found in the Physics Laboratory after the practical classes.
+>[br]The owner may claim the calculator from the Physics Laboratory In-charge by providing sufficient identifying details to establish the ownership.[br]
+>[br]Diya
+>[br]Lab Captain
+>[br]Oxford Public School, Patna
 
-13. Your school is organizing a Blood Donation Camp in collaboration with the Red Cross Society. As the President of the Social Service Club of St. Joseph's School, Kochi, draft a notice informing parents, teachers and eligible students about the camp. *HINT: (Mention the date, venue, timings and registration details)*. You are Arjun/Ananya.
+[br]
+
+[Q]12. A student has lost an expensive wristwatch during the lunch break. As the School Captain of Kendriya Vidyalaya, Guwahati, draft a notice requesting students to help locate the item. You are Aman/Anjali.[/Q]
+[br]
+
+>[C]Kendriya Vidyalaya, Guwahati[/C]
+>**NOTICE**
+>5th January,2026
+>[C][U]LOST A WRISTWATCH[/U][/C]
+>This is to bring to you that a student has lost an expensive wristwatch during lucnch break in the School Canteen area. It is a black color wristwatch with a thin golden rim, from the house of Sonata. 
+>[br]If anyone finds the watch, you are kindly requested to hand it over to the School Office authorities at the earliest[br]
+>[br]Anjali
+>[br]School Captain
+>[br]Kendriya Vidyalaya, Guwahati
+
+[br]
+
+[Q]13. Your school is organizing a Cleanliness Awareness Rally in the nearby locality under the Swachh Bharat Abhiyan. As the President of the Eco Club of Bright Future School, Kanpur, draft a notice inviting students of Classes IX–XII to participate. 
+You are Keshav/Kavya.[/Q][br]
+[br]
+
+>[C]Bright Future School, Kanpur[/C]
+>**NOTICE**
+>19th June,2026
+>[C][U]LET'S CLEAN OUR ENVIRONMENT[/U][/C]
+>This is to bring to you that the School is organising a cleanliness awareness Rally and a Cleanliness drive on 25th June,2026 from 10 AM in the nearby locality under the Swachh Bharat Abhiyan.
+>[brAll the ]Students of Classes IX–XII are requested to participate enthusiastically and contribute to the noble cause of keeping our surroundings clean[br]
+>[br]Kavya
+>[br]Head Girl
+>[br]Bright Future School, 
+
+[br]
+
+[Q]14. Your school is organizing a Blood Donation Camp in collaboration with the Red Cross Society. As the President of the Social Service Club of St. Joseph's School, Kochi, draft a notice informing parents, teachers and eligible students about the camp. You are Arjun/Ananya.[/Q]
+[br]
+
+>
