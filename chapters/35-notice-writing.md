@@ -62,7 +62,7 @@ Your School is Organizing an Educational Fair in the school premises. As the Hea
 
 [br]
 
-[Q]3. CATEGORY: EVENT[br]
+[Q]3. CATEGORY: AWARENESS OR WORKSHOP EVENT[br]
  Your School is Organising a road safety Awareness workshop for studnets of class IX-XII. As the head boy / head girl of your school, draft a notice informing the Students about the workshop. You are Ashna/Ashish.
  [CBSE 2025] [/Q]
 [br]
@@ -129,7 +129,8 @@ Your school is organizing a one-day educational trip to the Indian Museum and Vi
 
 [br]
 
-[Q]7. Your school has planned a visit to the National Science Centre for students interested in Science. As the Secretary of the Science Club of Modern Public School, Delhi, draft a notice informing students of Classes IX–XI. You are Harsh/Harini.[/Q]
+[Q]7. CATEGORY: SCOOL EXCURSION[br]
+Your school has planned a visit to the National Science Centre for students interested in Science. As the Secretary of the Science Club of Modern Public School, Delhi, draft a notice informing students of Classes IX–XI. You are Harsh/Harini.[/Q]
 [br]
 
 > [C]Modern Public School, Delhi[/C]
@@ -146,7 +147,8 @@ Your school is organizing a one-day educational trip to the Indian Museum and Vi
 
 [br]
 
-[Q]8. A team of doctors from a reputed hospital is conducting a free health check-up camp in your school. As the Head Boy/Head Girl of St. Mary's School, Ranchi, draft a notice informing students of Classes VI–XII about the camp. You are Rohan/Ritika[/Q]
+[Q]8. CATEGORY: HEALTH CHECKUP DRIVE [br]
+ A team of doctors from a reputed hospital is conducting a free health check-up camp in your school. As the Head Boy/Head Girl of St. Mary's School, Ranchi, draft a notice informing students of Classes VI–XII about the camp. You are Rohan/Ritika[/Q]
 [br]
 
 >[C]St.Mary Convent School, Ranchi[/C]
@@ -161,7 +163,8 @@ Your school is organizing a one-day educational trip to the Indian Museum and Vi
 
 [br]
 
-[Q]9. Your school is organizing an Eye and Dental Health Camp. As the School Captain of Springdale School, Jaipur, draft a notice informing students of Classes VIII–XII about the camp. You are Ankit/Ananya[/Q]
+[Q]9. CATEGORY: HEALTH CHECKUP DRIVE [br]
+Your school is organizing an Eye and Dental Health Camp. As the School Captain of Springdale School, Jaipur, draft a notice informing students of Classes VIII–XII about the camp. You are Ankit/Ananya[/Q]
 [br]
 
 >[C]Springdale School, Jaipur[/C]
@@ -176,7 +179,8 @@ Your school is organizing a one-day educational trip to the Indian Museum and Vi
 
 [br]
 
-[Q]10. You have found a wallet containing important documents, identity cards and some cash in the school auditorium after the Annual Day programme. As the Head Boy/Head Girl of Cambridge School, Bhopal, draft a notice informing students about the found item and inviting the rightful owner to collect it from the school office after proper identification. You are Karan/Kriti.[/Q]
+[Q]10. CATEGORY: LOST AND FOUND [br]
+You have found a wallet containing important documents, identity cards and some cash in the school auditorium after the Annual Day programme. As the Head Boy/Head Girl of Cambridge School, Bhopal, draft a notice informing students about the found item and inviting the rightful owner to collect it from the school office after proper identification. You are Karan/Kriti.[/Q]
 [br]
 
 >[C]Cambridge School, Bhopal[/C]
@@ -190,7 +194,8 @@ Your school is organizing a one-day educational trip to the Indian Museum and Vi
 
 [br]
 
-[Q]11. A scientific calculator has been found in the Physics laboratory after practical classes. As the Lab Captain of Oxford Public School, Patna, draft a notice informing students about the same. [ HINT:*Mention where it can be claimed and the identification procedure*]. You are Dev/Diya.[/Q]
+[Q]11. CATEGORY: LOST AND FOUND [br]
+ A scientific calculator has been found in the Physics laboratory after practical classes. As the Lab Captain of Oxford Public School, Patna, draft a notice informing students about the same. [ HINT:*Mention where it can be claimed and the identification procedure*]. You are Dev/Diya.[/Q]
 [br]
 
 >[C]Oxford Public School, Patna[/C]
@@ -205,7 +210,8 @@ Your school is organizing a one-day educational trip to the Indian Museum and Vi
 
 [br]
 
-[Q]12. A student has lost an expensive wristwatch during the lunch break. As the School Captain of Kendriya Vidyalaya, Guwahati, draft a notice requesting students to help locate the item. You are Aman/Anjali.[/Q]
+[Q]12. CATEGORY: LOST AND FOUND[br]
+A student has lost an expensive wristwatch during the lunch break. As the School Captain of Kendriya Vidyalaya, Guwahati, draft a notice requesting students to help locate the item. You are Aman/Anjali.[/Q]
 [br]
 
 >[C]Kendriya Vidyalaya, Guwahati[/C]
@@ -220,7 +226,8 @@ Your school is organizing a one-day educational trip to the Indian Museum and Vi
 
 [br]
 
-[Q]13. Your school is organizing a Cleanliness Awareness Rally in the nearby locality under the Swachh Bharat Abhiyan. As the President of the Eco Club of Bright Future School, Kanpur, draft a notice inviting students of Classes IX–XII to participate. 
+[Q]13. CATEGORY: ACTIVITY DRIVE [br]
+Your school is organizing a Cleanliness Awareness Rally in the nearby locality under the Swachh Bharat Abhiyan. As the President of the Eco Club of Bright Future School, Kanpur, draft a notice inviting students of Classes IX–XII to participate. 
 You are Keshav/Kavya.[/Q][br]
 [br]
 
@@ -236,7 +243,16 @@ You are Keshav/Kavya.[/Q][br]
 
 [br]
 
-[Q]14. Your school is organizing a Blood Donation Camp in collaboration with the Red Cross Society. As the President of the Social Service Club of St. Joseph's School, Kochi, draft a notice informing parents, teachers and eligible students about the camp. You are Arjun/Ananya.[/Q]
+[Q]14. CATEGORY: DONATION CAMP[br] 
+Your school is organizing a Blood Donation Camp in collaboration with the Red Cross Society. As the President of the Social Service Club of St. Joseph's School, Kochi, draft a notice informing parents, teachers and eligible students about the camp. You are Arjun/Ananya.[/Q]
 [br]
 
->
+>[C]St. Joseph's School, Kochi[/C]
+>**NOTICE**
+>19th October,2026
+>[C][U]YOUR BLOOD CAN SAVE A LIFE[/U][/C]
+>This is to bring to your that the School is organising a voluntary blood donation drive in collaboration with ABC blood bank,Delhi. The event will be on 24th October, 2026 from 10 AM in School's Archedium hall.
+>[br]Interested students who are willing to voluntarily donate blood are requested to register their names at the Social Service Club Office by 22 October 2026.[br]
+>[br]Ananya
+>[br]President,Social Service Club
+>[br]St. Joseph's School,Kochi
