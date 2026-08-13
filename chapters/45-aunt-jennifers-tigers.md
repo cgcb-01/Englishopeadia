@@ -23,3 +23,4 @@ The tigers in the panel that she made[br]
 will go on prancing, proud and unafraid."[br][/Q]
 
 ANS: Poet says that even after her death, her terrified hands will still have the ring bound with all the marriage ordeals, that she had silently carried out throughout her life. It says that even after her death se will not be able to come out of the marriage opression. She will never be able to become fearless, ferrocius and brave like the tigers that she embroidered. She will not be able to gain independence and freedom. [br]But the last line which says that her tigers will keep on prancing fearlessly symbolises that the wish and dreams that she had would always be fulfilled and would be lived by her brave tigers that she had embroidered.
+
