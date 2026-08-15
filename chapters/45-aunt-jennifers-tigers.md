@@ -7,6 +7,7 @@ Bright topaz denizens of a world of green."[/Q]
 [Q]"They do not fear the men beneath the tree;[br]
 They pace in sleek chivalric certainty."[/Q]
 [br]
+
 ANS: Aunt Jennifer had embroidered on a screen, bright yellow tigers prancing proudly in a green forest. Tigers are ferrocius, brave and fearless. She says that tigers are brave, gallant and does not fear men. Aunt Jennifer was suppressed ,tortured, and was dominated by her husband. Her marraige had became a burden for her.She was frightened of her husband[br].But she wanted to be brave, ferrocius, fearless and free. Her wish and her desire was being expressed out in the form of embroidery where she portrayed ferrocious bright tiger prancing proudly in the green forest.
 [br]
 
