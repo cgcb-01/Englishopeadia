@@ -5,7 +5,7 @@
 
 ANS: The tomb of the Pharaoh was being discovered in 1922 by Howard carter.
 
-[Q]2. WHy he was being undergone a CT Scan?[/Q]
+[Q]2. Why he was being undergone a CT Scan?[/Q]
 [br]
 
 ANS: He was being undergone a CT scan to produce a 3d virtual body of his body and to store hisstructure data for research by forensics and the Archealogist to find out how old he was when he died, the reason of his death and his medical mysteries.

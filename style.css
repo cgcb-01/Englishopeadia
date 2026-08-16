@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,400;8..60,600;8..60,700;8..60,800;8..60,900&display=swap');
 * {
     margin: 0;
     padding: 0;
@@ -274,13 +275,13 @@ body {
 
 /* Q‑tag (bold & larger) */
 .qa-q {
-    font-weight: 900;
+    font-weight: 800;
     font-size: 1em;    
     color: #000000;
     margin-top: 1.4rem;
     margin-bottom: 0.5rem;
     display: block;
-    font-family: 'Playfair Display', serif; 
+    font-family: 'Source Serif 4', 'Times New Roman', serif;
     letter-spacing: 0.3px;
     text-shadow: 0.5px 0.5px 0 rgba(0,0,0,0.05); 
 }
@@ -342,8 +343,8 @@ body {
 
 /* Standout bold from [B]…[/B] */
 .qa-standout-bold {
-    font-weight: 900;
-    font-size: 1.4em;
+    font-weight: 800;
+    font-size: 1.2em;
     letter-spacing: 0.6px;
     font-family: 'Playfair Display', serif;
     color: #000;             

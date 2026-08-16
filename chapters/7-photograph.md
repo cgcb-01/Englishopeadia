@@ -12,6 +12,7 @@ My mother’s, that was before I was born.[br]
 And the sea, which appears to have changed less,[br]
 Washed their terribly transient feet. "[br] [/Q]
 [br]
+
 ANS: The Poet says about a Cardboard Image. In old days the images were framed using cradboard, so inorder to reflect that the image is very old. poet uses the word cardboard Image.
 He then describes the photo which had captured a childhood memory of her mother when she was about twelve years old. She was seen near a sea beach holding the hands of her two counsin from both side, the sea waves were washing their small feet and all three were smiling through their hair looking at the camera.
 The poet also says that the sea has changed little, inorder to say that the sea waves are iternal and 
