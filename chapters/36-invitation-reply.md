@@ -122,7 +122,7 @@ When You are Inviting an Eminent person or a particular individual, It would not
 
 [Q]7. Draft an invitation card inviting friends to an exhibition-cum-sale of hand painted wooden trays and bowls. Include necessary details regarding the event. You are Anita/Anil. [/Q]
 
->[C]Miss Anita Saha And the Staffs [br] of[br]Ananda Kalyani Store[br]
+>[C][B]Miss Anita Saha And the Staffs[/B] [br] of[br]Ananda Kalyani Store[br]
 >requests your benign presence[br]
 >on occassion of [br]
 >**Exhibition cum Sale**
@@ -135,7 +135,7 @@ When You are Inviting an Eminent person or a particular individual, It would not
 >Contact: 938xxxxxxx
 
 
-[Q]8. You are the President, Literary Society of Hans Public School, Railpura. Draft a formal invite to the renowned author Ms. Savita Patil, requesting her to conduct a workshop on Creative Writing in your school. Invent necessary details. You are Anita/Amit. [/Q]
+[Q]8. You are the President, Literary Society of Hans Public School, Railpura. Draft a formal invite to the renowned author Ms. Savita Patil, requesting her to conduct a workshop on Creative Writing in your school. Invent necessary details. You are Anita/Amit. [/Q] [br]
 
 >Literary Society[br]
 >Hans Public School[br]
@@ -156,7 +156,7 @@ When You are Inviting an Eminent person or a particular individual, It would not
 >[br]President
 >[br]Literary Society, Hans Public School, Railpur
 
-9. You are Arushi/Anand, Secretary of the Fashion Design Club in your school. Create a formal letter of invitation, inviting renowned designer Piyush Bahl as chief guest to the fashion show, conceptualized and choreographed by the students themselves. Invent necessary details.
+[Q]9. You are Arushi/Anand, Secretary of the Fashion Design Club in your school. Create a formal letter of invitation, inviting renowned designer Piyush Bahl as chief guest to the fashion show, conceptualized and choreographed by the students themselves. Invent necessary details.[/Q]
 
 >Fashion Design Club[br]
 >ABC High School[br]
@@ -177,22 +177,33 @@ When You are Inviting an Eminent person or a particular individual, It would not
 >[br]President
 >[br]Literary Society, Hans Public School, Railpur
 
-10. Sita has cleared the National Eligibility cum Entrance Test (NEET).  Her parents, Seema and Rahul Pandey, are hosting a dinner party to celebrate her success. Draft a formal invitation card giving details of date, time and venue in about 50 words. 
+[Q]10. Sita has cleared the National Eligibility cum Entrance Test (NEET).  Her parents, Seema and Rahul Pandey, are hosting a dinner party to celebrate her success. Draft a formal invitation card giving details of date, time and venue in about 50 words. [/Q] [br]
 
 >[C][B]Mr. and Mrs. Rahul Pandey[/B][br]
->is throwing a [br]Dinner Party[br]
->to celebrate their Daughter [br]
-> **Sita's Success**
->in clearing the NEET Exam
->The party is hosted[br]
->On[br]
+>are throwing a [br]Dinner Party[br]
+>to celebrate the success of their daughter[br]
+> **Sita**
+>in clearing the NEET Exam.
+>The event is on[br]
 >25th September, 2025, Sunday[br]
 >From 7 PM[br]
->at[br] their residence Gayatri Bhavan, Sector 29, Delhi[br]
->You and your family [br] is cordially invited[/C]
+>at their residence [br]Gayatri Bhavan, Sector 29, Delhi[br]
+>You and your family [br] are cordially invited[/C]
 >[B]R.S.V.P[/B][br]
 >Riya[br]
 >Contact : 923154xxxx
 
-11. You are Priyanka/Piyush. Mr. and Mrs. Kapoor invited you to the marriage ceremony of their daughter, Sania, on 20
-th June, 2022 at  7:00 p.m. at their residence, Press Nagar, Indore. Draft a reply in about 50 words accepting the invitation. Mention date, time and venue. 
+[Q]11. You are Priyanka/Piyush. Mr. and Mrs. Kapoor invited you to the marriage ceremony of their daughter, Sania, on 20
+th June, 2022 at  7:00 p.m. at their residence, Press Nagar, Indore. Draft a reply in about 50 words accepting the invitation.[/Q]
+[br]
+
+>Priyanka Mahato[br]
+>Arundhati Road, Indore[br]
+>[br]18th June, 2022[br]
+>[br]Mr. Anirudh Kapoor
+>[br]Press Nagar, Indore[br]
+>Subject: Acceptance of Invitation to the Marriage Ceremony[br]
+>I express my sincere gratitude to Mr. and Mrs. Kapoor for extending an invitation to attend the marraige ceremony of their daughter Sania on 20th June, 2022 at 7:00 pm at their residence, Press Nagar, Indore.[br]
+>I am pleased to confirm my presence at the event. Conveying my best wishes to Sania for her new journey[br]
+>[br]Yours sincerely[br]
+>Priyanka

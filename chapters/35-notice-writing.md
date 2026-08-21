@@ -19,8 +19,8 @@
 
 >[C]Organisation name (ABC School, Delhi)[/C]
 >**NOTICE**
+>[C][U]A CATCHY HEADING[/U][/C][br]
 >Date in expanded format (Date Month, year)
->[C][U]A CATCHY HEADING[/U][/C]
 >Notice body[br]
 >Include the Event details you can write it in parah or in points under event details[br]
 [br]
