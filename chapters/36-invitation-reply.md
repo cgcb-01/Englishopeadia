@@ -1,5 +1,8 @@
 ## Let's See Some Example
 
+[C]FORMAL LETTER OF INVITATION[/C] 
+[br]
+
 [Q]1. M/s Aggarwal and Sons are opening a new General Store "Super Saver Mart" in Geeta Enclave, ABC Nagar, Delhi. The inauguration ceremony is fixed for Sunday, the 19th June, 2022 at 11:00 a.m. The store will be inaugurated by Mr. Roshan Seth, councillor of the area. Draft an invitation card for the residents in not more than 50 words. Mention day, date, time and other details. [/Q]
 [br]
 
@@ -68,7 +71,7 @@
 >On[br]
 >11th July,2022, Sunday[br]
 >From 7 PM[br]
->In Geetanjali Bhavan, Lajpat Nagar, Delhi[br][/C]
+>At their residence[br] Geetanjali Bhavan, Lajpat Nagar, Delhi[br][/C]
 >[B]R.S.V.P[/B][br]
 >Rosie[br]
 >Contact : 911xxxxxxx
@@ -90,31 +93,36 @@
 >Rajesh[br]
 >Contact : 923154xxxx
 
-6. Write a formal invitation letter inviting Shri Saras Rathore, the Education Minister to be the chief guest at your high school's annual day celebrations. Include details of the event such as date and time, cultural events, etc. You are Savitri/Saurabh Trehan, Principal, Tyagraj Public School, Surya Nagar.  
+[br]
+[B]NOTE:[/B] [br]
+When You are Inviting an Eminent person or a particular individual, It would not be a card format but a formal Letter. We will see it next.
+[br]
 
->[C][B]The Principal, Staffs and Students[/B][br]
->of[br]
->Tyagraj Public School, Surya Nagar
->requests the benign presence[br]
->of [br]The Education Minister[br]
->Shri Saras Rathore[br]
->to be the Chief Guest[br]
->On the occassion of the[/C]
->**Annual Day Celebration**
->[C]Of out School[br]to be held
->On [br]3rd December,2022[br]
->From 10 AM[br]
->At, Vivekananda Auditorium, School Campus[br]
->The occasion will feature a vibrant array of cultural events[br] followed by the grand Prize Distribution Ceremony[/C>]
->[br][B]R.S.V.P[/B][br]
->Savitri[br]
->Principal[br]
->Tyagraj Public School, Surya Nagar
+[Q]6. Write a formal invitation letter inviting Shri Saras Rathore, the Education Minister to be the chief guest at your high school's annual day celebrations. Include details of the event such as date and time, cultural events, etc. You are Savitri/Saurabh Trehan, Principal, Tyagraj Public School, Surya Nagar.[/Q]
+
+>Tyagraj public School[br]
+>Surya Nagar, Sector 6[br]
+>Hyderabad[br]Pin: 7XXXXX[br]
+>[br]19th September,2025
+>[br]
+>[br]Shri Saras Rathore
+>[br]Education Minister[br]Hyderabad[br]
+>[br]Subject: Invitation to be the Chief Guest in the School's Annual Day Celebration[br]
+>[br]Respected Sir,
+>[br]It is with great honour and privilege that we extend our heartfelt invitation to you to grace the 25th Annual Day Celebration of our school as the esteemed Chief Guest.
+>The event will be held on 13th June 2025 from 2:00 p.m. at Tagore Auditorium, ABC sector, Jharkhand.[br]The occasion will be featuring a vibrant array of cultural events, followed by the grand Prize Distribution Ceremony.[br]
+>Your benign presence and words of wisdom would bring inspiration among the students, and would make this event a successful one.[br]
+>Looking forward to receiving your kind confirmation.
+>[br][br]Thanking You
+>[br]Yours sincerely
+>[br]Savitri Trehan
+>[br]Principal
+>[br]Tyagraj public School, Surya Nagar
 
 
-7. Draft an invitation card inviting friends to an exhibition-cum-sale of hand painted wooden trays and bowls. Include necessary details regarding the event. You are Anita/Anil. 
+[Q]7. Draft an invitation card inviting friends to an exhibition-cum-sale of hand painted wooden trays and bowls. Include necessary details regarding the event. You are Anita/Anil. [/Q]
 
->[C]Miss Anita Saha And Staffs [br] of[br]Ananda Kalyani Store[br]
+>[C]Miss Anita Saha And the Staffs [br] of[br]Ananda Kalyani Store[br]
 >requests your benign presence[br]
 >on occassion of [br]
 >**Exhibition cum Sale**
@@ -126,30 +134,65 @@
 >Anita[br]
 >Contact: 938xxxxxxx
 
-8.  You are the President, Literary Society of Hans Public School, Railpura. Draft a formal invite to the renowned author Ms. Savita Patil, requesting her to conduct a workshop on Creative Writing in your school. Invent necessary details. You are Anita/Amit. 
 
->[C][B]The Principal, Staffs and Students[/B][br]
->of[br]
->Tyagraj Public School, Surya Nagar
->requests the benign presence[br]
->of [br]The Education Minister[br]
->Shri Saras Rathore[br]
->to be the Chief Guest[br]
->On the occassion of the[/C]
->**Annual Day Celebration**
->[C]Of out School[br]to be held
->On [br]3rd December,2022[br]
->From 10 AM[br]
->At, Vivekananda Auditorium, School Campus[br]
->The occasion will feature a vibrant array of cultural events[br] followed by the grand Prize Distribution Ceremony[/C>]
->[br][B]R.S.V.P[/B][br]
->Savitri[br]
->Principal[br]
->Tyagraj Public School, Surya Nagar
+[Q]8. You are the President, Literary Society of Hans Public School, Railpura. Draft a formal invite to the renowned author Ms. Savita Patil, requesting her to conduct a workshop on Creative Writing in your school. Invent necessary details. You are Anita/Amit. [/Q]
+
+>Literary Society[br]
+>Hans Public School[br]
+>Railpur, 36-Bwikas Nagar[br]
+>Himachal Pradesh[br]Pin: 7XXXXX[br]
+>[br]19th August,2025
+>[br]
+>[br]Ms. Savita Patil
+>[br]Eminent Author and Esteemed literary Figure[br]Himachal Pradesh[br]
+>[br]Subject: Invitation to conduct a workshop on creative writing skills [br]
+>[br]Respected Sir,
+>[br]It is with great honour and privilege that we extend our heartfelt request to you to conduct a workshop on Creative Writing skills in our School.[br]
+>Your benign presence and touch of creativity and expertise would bring inspiration among our students.[br]
+>You are requested to kindly let us know your available dates and preferred timings. Looking forward to receiving your kind confirmation.
+>[br][br]Thanking You
+>[br]Yours sincerely
+>[br]Anita
+>[br]President
+>[br]Literary Society, Hans Public School, Railpur
 
 9. You are Arushi/Anand, Secretary of the Fashion Design Club in your school. Create a formal letter of invitation, inviting renowned designer Piyush Bahl as chief guest to the fashion show, conceptualized and choreographed by the students themselves. Invent necessary details.
 
+>Fashion Design Club[br]
+>ABC High School[br]
+>Narendrapur, Sector-5[br]
+>Kolkata, West Bengal[br]Pin: 700001[br]
+>[br]26th March,2025
+>[br]
+>[br]Piyush Bahl
+>[br]Eminent Designer[br]West bengal[br]
+>[br]Subject: Invitation to be the Chief Guest of the event [br]
+>[br]Respected Sir,
+>[br]It is with great honour and privilege that we extend our heartfelt invitation to you to grace our annual event, “Fashion in Style,” organised by our School’s Fashion Design Club, as our esteemed Chief Guest.[br]
+>Your benign presence and touch of creativity and expertise would bring inspiration among the students, and would make this event a successful one.[br]
+>You are requested to kindly let us know your available dates and preferred timings. Looking forward to receiving your kind confirmation.
+>[br][br]Thanking You
+>[br]Yours sincerely
+>[br]Anita
+>[br]President
+>[br]Literary Society, Hans Public School, Railpur
+
 10. Sita has cleared the National Eligibility cum Entrance Test (NEET).  Her parents, Seema and Rahul Pandey, are hosting a dinner party to celebrate her success. Draft a formal invitation card giving details of date, time and venue in about 50 words. 
+
+>[C][B]Mr. and Mrs. Rahul Pandey[/B][br]
+>is throwing a [br]Dinner Party[br]
+>to celebrate their Daughter [br]
+> **Sita's Success**
+>in clearing the NEET Exam
+>The party is hosted[br]
+>On[br]
+>25th September, 2025, Sunday[br]
+>From 7 PM[br]
+>at[br] their residence Gayatri Bhavan, Sector 29, Delhi[br]
+>You and your family [br] is cordially invited[/C]
+>[B]R.S.V.P[/B][br]
+>Riya[br]
+>Contact : 923154xxxx
 
 11. You are Priyanka/Piyush. Mr. and Mrs. Kapoor invited you to the marriage ceremony of their daughter, Sania, on 20
 th June, 2022 at  7:00 p.m. at their residence, Press Nagar, Indore. Draft a reply in about 50 words accepting the invitation. Mention date, time and venue. 
