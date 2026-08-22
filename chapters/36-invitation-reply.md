@@ -88,7 +88,7 @@
 >15th September, 2024, Saturday[br]
 >From 7 PM[br]
 >at[br] Our residencce Ranibhavan, Sarojini Nagar, Hyderabad[br]
->You and your family [br] is cordially invited[/C]
+>You and your family [br] are cordially invited[/C]
 >[B]R.S.V.P[/B][br]
 >Rajesh[br]
 >Contact : 923154xxxx
@@ -181,9 +181,9 @@ When You are Inviting an Eminent person or a particular individual, It would not
 
 >[C][B]Mr. and Mrs. Rahul Pandey[/B][br]
 >are throwing a [br]Dinner Party[br]
->to celebrate the success of their daughter[br]
-> **Sita**
->in clearing the NEET Exam.
+>to celebrate [br]**the success of their daughter**
+> [B]Sita[/B][br]
+>in clearing the NEET Exam.[br]
 >The event is on[br]
 >25th September, 2025, Sunday[br]
 >From 7 PM[br]
