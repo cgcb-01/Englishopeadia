@@ -41,6 +41,7 @@ And the second reason was they and tehir whole tribe was proverty stricken so ow
 ANS: The Garoghlanian family is an armenian tribe. The whole tribe is poor and poverty stricken, but they all are known for their honesty for almost about 11 centuries. The people of the tribe are proud, honest, none of them would take advantage of anyone, and they believed in right and wrong.
 [br]
 
-[Q]5. What did Aaram explained himself inorder to belief that Mourad has not stolen the horse/ Why he was explaining himself?[/Q] [br]
+[Q]5. What did Aaram explained himself inorder to belief that Mourad has not stolen the horse? Why he was explaining himself?[/Q] [br]
 
+ANS: 
 ---
