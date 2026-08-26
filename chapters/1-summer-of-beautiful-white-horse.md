@@ -43,5 +43,5 @@ ANS: The Garoghlanian family is an armenian tribe. The whole tribe is poor and p
 
 [Q]5. What did Aaram explained himself inorder to belief that Mourad has not stolen the horse? Why he was explaining himself?[/Q] [br]
 
-ANS: 
+ANS: Aaram explained that 
 ---
