@@ -34,7 +34,6 @@ ANS: The story rightly portrays Mourad's love and care towards his cousin Aram. 
 ANS: First thing was among all his early memories one was the memories of horse and his first longing had been the longing to ride a horse. And that morning seeing the horse infront of his window, he could not believe what he was seeing.[br]
 And the second reason was they and tehir whole tribe was proverty stricken so owning a horse is not something that they can afford. So it was not possible for Mourad to buy a horse, and if he cannot buy a horse then it must be that he had stolen it. Since, the Garoghlanian family is known for their honesty, so Aram could not believe Mourad had stolen it, thus he also could not believe that he was seeing a horse with Mourad.[br] 
 
-[[Split]]
 
 [Q]4. Say about the Garoghlanian family tribe.[/Q] [br]
 
@@ -43,5 +42,36 @@ ANS: The Garoghlanian family is an armenian tribe. The whole tribe is poor and p
 
 [Q]5. What did Aaram explained himself inorder to belief that Mourad has not stolen the horse? Why he was explaining himself?[/Q] [br]
 
-ANS: Aaram explained that 
+ANS: Aaram explained himself saying that stealing a horse for a ride and stealing something for money are not the same thing. It would not become stealing until they sell the horse and he knew that they would not do so.[br]
+He said these because their family was known for their honesty. So stealing ad taking advantage was something that they would never do. But he also knew, that since their family is poor so mourad cannot possess a horse, unless it is stolen. Knowing all these, it was their family pride of honesty that was stopping him from riding the horse. But he was also crazy about horses and wanted to ride it. So he gave above justification to satisfy his mind that it was not equal to stealing.
+[br]
+
+[[Split]]
+
+[Q]6. Describe the location of Aaram' house.[/Q][br]
+
+ANS: That year Aaram and his family lived at the edge of town on Walnut Avenue. Behind their house was the country, the vineyards, orchards, irrigation ditches and country roads.[br]
+
+[Q]7. Why people consider uncle Khosrove as a crazy streak?[/Q][br]
+
+ANS: Uncle Khosrove was a man with temper, so furious, irritable and impatient that he used to stop anyone from talking by roaring that it is no harm, pay no attention to it. Once his own son Arak came running 8 blocks to the barber's shop where his father was having his moustache trimmed to tell him that their house was on fire. But he roared and said that it is no harm , pay no attention to it. He does not understand the sensitivity of any situation and also lacks logical and rational thinking. This behaiviour of him made people say that he is a crazy streak.
+[br]
+
+[Q]8. People consider both Mourad and Uncle Khosrove and crazy, but are they really similar or somehow different?[/Q][br]
+
+ANS: Although people consider Mourad and uncle Khosrove as similar and crazy, they consider Mourad as natural descendant of uncle Khosrove. But in reality they are different.
+Where Uncle Khosrove is a furious man, with high temper, irritable and impatient. He lacks rational thinking and not wise and sensible. Even when his son said that their house is on fire he roared and said not to pay attention to it.He lacks care, compassion and proper judgement of any situtaion. [br]
+Whearas we saw that Mourad although crazy he has a kind and compassionate heart. He loves animals and is also sensible and intelligent. He thinks rationallyad knows to make correct decision. He is much more mature, logical and practical than uncle Khosrove.[br]
+
+[Q]9. What happened when Aaram started to ride the horse alone?[/Q][br]
+
+ANS: As Aaram kicked into the muscle of the horse it reared and snorted. And then it began to run.Since author did not know what to do, he was not able to control the horse. Thus instead of running across the field, the horse ran down the road to the vineyard of Dikran Halabian. There it leaped over the vines, and then author fell down and the horse continued running. Later they had to go to find the horse.[br]
+
+[Q]10. Where did they hid the horse?[/Q][br]
+
+ANS: They hid the horse in a barn of a deserted vineyard. It belonged to a farmer named fetvajian.[br]
+
+[Q]11. What did the author mean when he writes:"Out of loneliness had learned to speak Armenian"?[/Q][br]
+
+ANS: John Byro a farmer was an Assyrian. But since there was a language difference between him and the people of that place, so he could not talk to anyone and this made him lonely. And out of this loneliness he learned to speak armenian so that he can talk with other people, as people over there speak armenian.[br]
 ---
