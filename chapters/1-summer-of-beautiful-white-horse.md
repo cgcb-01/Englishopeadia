@@ -71,8 +71,8 @@ ANS: As Aaram kicked into the muscle of the horse it reared and snorted. And the
 
 ANS: They hid the horse in a barn of a deserted vineyard. It belonged to a farmer named fetvajian.[br]
 
-[Q]11. What did the author mean when he writes:"Out of loneliness had learned to speak Armenian"?[/Q][br]
+[Q]11. What did the author mean when he writes:"Out of loneliness had learned to speak Armenian"?
+[/Q][br]
 
 ANS: John Byro a farmer was an Assyrian. But since there was a language difference between him and the people of that place, so he could not talk to anyone and this made him lonely. And out of this loneliness he learned to speak armenian so that he can talk with other people, as people over there speak armenian.[br]
 
----
