@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cgcb-01.github.io/Englishopeadia/sitemap.xml
