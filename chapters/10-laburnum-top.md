@@ -21,4 +21,7 @@
 >ANS: the goldfinch launch itself aways towards the infinite. That is high in the sky.[br]
 
 >[Q]7. What happens to the laburnum tree before and after the goldfinch comes?[/Q][br]
->ANS: 
+>ANS: Before the goldfinch comes the laburnum top remains quiet, silent and lifeless. [br]But as the mother goldfinch comes the small childrens starts chirrupings, chittering and tremoring their wings. The chittering and trillings represent the joy and happiness of the young ones when they see their mother. And their excitement fills the laburnum tree with liveliness upon the arrival of the goldfinch.[br]
+
+>[Q]8. What does the poet mean by the line "barred face identity mask"?[/Q][br]
+>ANS: The poet uses "barred" here to mention the different band of color that goldfinch has near its mouth. The goldfinch has a different color strip on its face and the stripped face of it looks lika a mask. It is a identity feature of the goldfinch birds. So he said " barred face identity mask".[br]
