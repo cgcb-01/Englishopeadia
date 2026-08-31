@@ -1,6 +1,6 @@
-**Ted Huges*
+**Ted Huges**
 
-##
+## Important Questions:
 
 >[Q]1.What the poet saud about the laburnum top in the beginning?[/Q][br]
 >ANS: The poet describes the top of a laburnum tree on a autumn afternoon in the month of September. And he says that the laburnum top is silent and quiet. The silence makes it look lifeless. Because of the autumn, theleaves of the tree started turning to yellow and all its seeds has fallen.[br]
@@ -14,14 +14,26 @@
 >[Q]4. Why do you think the goldfinch hid her children in the laburnum tree?[/Q][br]
 >ANS: The leaves of the laburnum tree in the season of autumn turn into yellow and a goldfinch bird is also yellow in color. So this helps them in camouflaging, and preventing being looked upon by any predators. Also the seeds of the laburnum tree is poisonous in nature, so the predators does not come in the tree. And in this way the  tree helps the mother goldfinch in keeping her childrens safe.[br]
 
->[Q]5. Who the author said as the engine of the family and why?[/Q][br]
+>[Q]5. Mention two poetic device used in the line: "whole tree trembles and thrills". Defining the figure of speech used justify your answer.[/Q][br]
+
+>ANS: The two poetic device used here is alliteration and personification.[br]
+>Alliteration is defined as the close repitition of consonant sound. Here we can see the close repetition of the letter 't'. So it is an alliteration.[br]
+>Secondly this line also shows the use of the poetic device 'personification'. Personification is defined as giving human qualities into a non human object or thing. So a tree here is being given the quality to tremble and thrill so it is personification.
+
+>[Q]6. Who the author said as the engine of the family and why?[/Q][br]
 >ANS: The author mentioned the mother goldfinch as the engine of her family.[br]He said it because when the mother goldfinch came in the laburnum tree, the chiks started chirruping, chittering and tremoring their wings. Also the mother goldfinch goes out to fetch food, inorder to feed her child. So we saw that on seeing the mother goldfinch the childrens becomes happy, also see brings food for her family. Thus the poet rightly said that she is the engine of her family.[br]
 
->[Q]6. Where does the goldfinch launch?[/Q][br]
+>[Q]7. Where does the goldfinch launch?[/Q][br]
 >ANS: the goldfinch launch itself aways towards the infinite. That is high in the sky.[br]
 
->[Q]7. What happens to the laburnum tree before and after the goldfinch comes?[/Q][br]
+>[Q]8. What happens to the laburnum tree before and after the goldfinch comes?[/Q][br]
 >ANS: Before the goldfinch comes the laburnum top remains quiet, silent and lifeless. [br]But as the mother goldfinch comes the small childrens starts chirrupings, chittering and tremoring their wings. The chittering and trillings represent the joy and happiness of the young ones when they see their mother. And their excitement fills the laburnum tree with liveliness upon the arrival of the goldfinch.[br]
 
->[Q]8. What does the poet mean by the line "barred face identity mask"?[/Q][br]
+>[Q]9. What does the poet mean by the line "barred face identity mask"?[/Q][br]
 >ANS: The poet uses "barred" here to mention the different band of color that goldfinch has near its mouth. The goldfinch has a different color strip on its face and the stripped face of it looks lika a mask. It is a identity feature of the goldfinch birds. So he said " barred face identity mask".[br]
+
+>[Q]10. "A mother is always a mother be it human or animals", say in reference to this poem.[/Q][br]
+>ANS: The poem shows the love and care that the goldfinch shows towards her childrens. The goldfinch was cautious with the safety of the childrens so it first suddenly came and sat at the branch end and then in an alert and abrupt way it slowly moved like a lizard and entered inside because it wanted to avoid the eyes of the predators, inorder to protect her childrens. Also it cared for her childrens and also bought food for them. This shows that even when it is an animal it still holds the same love and care that a human shows towards their childrens.[br]
+
+>[Q]11. Mention the poetic device used in teh line "Sleek as a lizard" . Define the poetic device and then justify your answer.[/Q][br]
+>ANS: The poetic device used here is a simile. A simile is a poetic device used for making a comparison between two things using words like like or as.[br] Here the movement of the goldfinch bird is compared to that of a lizard using the word as, thus it is a simile.[br]
