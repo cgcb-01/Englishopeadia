@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://cgcb-01.github.io/Englishopeadia/sitemap.xml
+Sitemap: https://yourusername.github.io/your-repo/sitemap.xml
