@@ -34,4 +34,6 @@
 
 >[Q]8. What do you understand by 'altogether changed and yet the same'?[/Q][br]
 
->ANS: The water rises above from land and sea.  
+>ANS: The water rises above from land and sea as water vapour and then at high altitude it condenses into water droplets, combines to form clouds and then falls as water droplets on the earth. Thus at the altitudes it completely changed from water vapour to water droplets, that is its state changes so although it completely gets changed but yet the remains the same water, in a different state of matter. 
+
+>[Q]9. 
