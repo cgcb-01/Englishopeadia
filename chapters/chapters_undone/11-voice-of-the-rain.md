@@ -36,4 +36,29 @@
 
 >ANS: The water rises above from land and sea as water vapour and then at high altitude it condenses into water droplets, combines to form clouds and then falls as water droplets on the earth. Thus at the altitudes it completely changed from water vapour to water droplets, that is its state changes so although it completely gets changed but yet the remains the same water, in a different state of matter. 
 
->[Q]9. 
+>[Q]9. How the rain helps the seeds?[/Q][br]
+
+>ANS: The rain provides the water that the seedlings need for their germination and thus how it helps the seeds to grow otherwise the lack of water would cause the seed to die or remain latent.[br]
+
+>[Q]10. How the rain "Pure and beautifies it"? What is referred to as 'it' in the above mentioned line?
+
+>ANS: Here the Earth is referred to as 'it' in the context.[br]
+>The rain washes away the dirt and dust from the earth, helps the growth of green trees, grasses and shrubs, thus how it pure and beautifies it.[br]
+
+>[Q]11. Indentify the poetic device used in the line "impalpable out of the land and bottomless sea", Justify your Answer.[/Q][br]
+
+>ANS: The poetic device used here is 'Hyperbole'. Hyperbole is a figure of speech in which we use excessive exaggeration to intensify  or empasize an idea, feeling or statement.
+> Here the use of 'bottomless sea' represents the use of Hyperbole. A sea cannot be bottomless, so it the use of excessive exggeration to represent or emphasize the huge depth of the sea.[br]
+
+>[Q]12. Why the poet thinks that the rain and music is similar?[/Q][br]
+
+>ANS: The poet thinks that the rain and music is similar because as music is a symphony of happiness, calmness, emotions and peace. It washes out all pain, tiredness and sadness from our heart and makes our heart light. Similarly the rain brings happiness, calmness and peace to earth. It washes out all the dust and dirt from the earth, calm and cools it down, and beautifies the earth with beautiful green trees. Thus poet thinks that rain and music is similar.[br]
+>Rain is the song sang by the Earth as music is sang by humans.[br]
+
+>[Q]13. Why the last two lines are kept in bracket?[/Q][br]
+
+>ANS: The poem at the beginning represented the speech given by the author and the rain. At the last the lines in the bracket are the thoughts of the Poet. It is what the poet thinks. Thus to distinguish it from the speech of the rain he uses brackets in the last two lines.[br]
+
+>[Q]14. What did the rain meant when he said that "I giveback life to my own origin"?[/Q][br]
+
+>The rain gets originated from land and sea.The rain water helps the germination of seeds and also prevents from drough thus how it gives life to land. Also the rain water fills the seas, lakes and oceans, prevents from getting dried up, thus it also gives life to seas. So the rain says that it gives back life to its own origin.
