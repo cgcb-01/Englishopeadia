@@ -28,7 +28,9 @@ ANS: The rain has a soft rhythmic sound when it falls on the earth. As poem carr
 ANS: In the poem the rain says that it rises from sea and land high above and there gets transformed into an indefinite shape, changes its form altogether and then descends down as rain on earth.[br]
 On the other hand the science tells that water from land and sea rises upward as water vapour there it condenses to form water droplets combines to form clouds of indefinite shape and then falls down as rain. Thus the poem rightly corresponds and aligns itself to what it is being stated by science.[br]
 
->[U]Topper's tip[/U]: The Answer of "does it corresponds" should be very clear, the mentioning of exactly yes or no is necessary. So even if you explain but does not write yes or no, then marks will not be given in most cases.[br]
+>**[U]Topper's tip[/U]**: The Answer of "does it corresponds" should be very clear, the mentioning of exactly yes or no is necessary. So even if you explain but does not write yes or no, then marks will not be given in most cases.
+
+[[spilt]]
 
 [Q]6. Why rain is important for the Earth?[/Q][br]
 
