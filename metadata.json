@@ -35,7 +35,9 @@
   "34": { "id": "34", "title": "Long Writing: Debate, Narrative, Descriptive", "class": "11", "category": "Class 11 Grammar", "icon": "fa-pen-fancy", "file": "34-long-writing.md" },
 
   "35": { "id": "35", "title": "CBSE: Notice Writing", "class": "11", "category": "Class 12 Grammar", "icon": "fa-pen-fancy", "file": "35-notice-writing.md" },
+  
    "36": { "id": "36", "title": "CBSE 12: Invitation and Reply", "class": "12", "category": "Class 12 Grammar", "icon": "fa-pen-fancy", "file": "36-invitation-reply.md" },
+
   "37": { "id": "37", "title": "CBSE Letter for Job Application Format and Examples", "class": "12", "category": "Class 12 Grammar", "icon": "fa-file-signature", "file": "37-job-application.md" },
   "38": { "id": "38", "title": "Letter to the Editor (7 Examples)", "class": "12", "category": "Class 12 Grammar", "icon": "fa-newspaper", "file": "38-letter-to-editor.md" },
   "39": { "id": "39", "title": "Article Writing (20 Examples)", "class": "12", "category": "Class 12 Grammar", "icon": "fa-pen", "file": "39-article-writing.md" },
