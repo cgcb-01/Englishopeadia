@@ -59,8 +59,22 @@ Next Carter's men chiselled away the consolidated material from beneath the limb
 
 [Q]12. Why do you think the writer said that "Archaeology has changed"? How it has changed?[/Q][br]
 
-ANS: 
+ANS: Author said that Archaelogy has changed through the decades, now it focusses less on treasure and more on the fascinating detailsof the life and death of peoples in the past.[br]
+He said this because Carter's men focussed on the remains of Tut's body and not on the golden adorements that his body was lavished with[br]
 
+[Q]13. Say about the Egyptian Mummy project[/Q][br]
+
+ANS: The Egyptian Mummy project began an inventory in late 2003, had recorded almost 600 mummy in that period and were adding more to the list. The next phase of the project was to scan the mummies by a portable CT machine.[br]
+
+[Q]14. Why it was very necessary for Carter to cut the mummy's face?[/Q][br]
+
+ANS: Carter had to cut the mummy's face and also disconnected almost all the major joints because he wanted to seperate the body of Tut from the gold adorements, othrewise theives would rip the remains apart inorder to remove the gold.[br]
+
+[Q]15. Who donated the portable CT machine?[/Q][br]
+
+ANS: The portable CT machine was donated by the manufacturer of it, The National Geographic Society and Siemens[br]
+
+[Q]16. How Tut's body was scanned? What will be done next with the data?
 ## NCERT solution:
 
 
