@@ -46,18 +46,21 @@ ANS: On opening the first coffin he found a shroud filed with garlands of willow
 [Q]9. What Gold artifacts King Tut was lavished with when he was being first discovered by carter?[/Q]
 [br]
 
-ANS: He was lavished with glittering goods, precious collars, inlaid necklaces and bracelets, rings, amulets, a ceremonial apron, sandals and sheaths for his finger and toes, all made up of pure gold.
+ANS: He was lavished with glittering goods, precious golden collars, inlaid necklaces and bracelets, rings, amulets, a ceremonial apron, and sandals and sheaths for his finger and toes, all made up of pure gold.
 
-10. What problem carter encountered when he first found the body of King Tut?
+[Q]10. What problem Carter encountered when he first found the body of King Tut?[/Q][br]
 
-11. Say about the Egyptian Mummy project.
+ANS: When Carter first found the body of King Tut the ritual resins used during his burial had hardened, cementing Tut to the bottom of his gold coffin, and even after applying a good amount of force he could not seperate the body of Tut from the coffin.[br]
 
-12. Who donated the portable CT machine?
+[Q]11. "No amount of legitimate force could move them". What steps Carter took to sperate the body of Tut from the coffin?[/Q][br]
 
-13. How Tut body was being scanned and the purpose of doing it? What will be done next with the data?
+ANS: The ritual resin used during the burial of King Tut had hardened, cementing Tut to the bottom of the gold coffin. As he could not seperate the mummy, so at forst he had kept the mummy for several hours under the sunlight, which had heated it to 149 degree fahrenheit. But still he could not seperate it.[br]
+Next Carter's men chiselled away the consolidated material from beneath the limbs and trunk of the mummy inorder to detach the mummy. But still he had to remove the gold adorements from the remains of Mummy as else the theives may steal it for the gold ornaments. So his men removed the mummy's head and disconnected almost all major joints and then reassembled on a layer of sand in a wooden box with padding.[br]
 
-14. Write the 3 ancestors of Tut. Tut and Amenhotep IV changed their names to? Write the meaning of their names.
+[Q]12. Why do you think the writer said that "Archaeology has changed"? How it has changed?[/Q][br]
 
-15. Write the actions taken by Amenhotep IV during his times?
+ANS: 
 
-16. What problems were faced during the CT scan? How it was being solved? Do you think it was a curse of the Pharaoh?
+## NCERT solution:
+
+

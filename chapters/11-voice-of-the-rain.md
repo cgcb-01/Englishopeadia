@@ -30,8 +30,6 @@ On the other hand the science tells that water from land and sea rises upward as
 
 >**[U]Topper's tip[/U]**: The Answer of "does it corresponds" should be very clear, the mentioning of exactly yes or no is necessary. So even if you explain but does not write yes or no, then marks will not be given in most cases.
 
-[[spilt]]
-
 [Q]6. Why rain is important for the Earth?[/Q][br]
 
 ANS: The rain when falls o eaeth it softens the soil, prevents from drought, washes away the dirt and dust and purifies Earth. It is the reason why small seedlings grow, as it provides water to the seedlings and helps in germination. The rain helps growth of plants and thus brings life on Earth. So it's importance cannot be compared and explained.[br]
@@ -40,6 +38,9 @@ ANS: The rain when falls o eaeth it softens the soil, prevents from drought, was
 
 ANS: The word "vague" means indefinite.[br]
 The water vapour rises up condenses into water droplets and then forms into a cloud. The clouds formed are of indefinite shape. So the rain said that it is vaguely formed.[br]
+
+[[spilt]]
+
 
 [Q]8. What do you understand by 'altogether changed and yet the same'?[/Q][br]
 
@@ -71,4 +72,3 @@ ANS: The poem at the beginning represented the speech given by the author and th
 [Q]14. What did the rain meant when he said that "I giveback life to my own origin"?[/Q][br]
 
 The rain gets originated from land and sea.The rain water helps the germination of seeds and also prevents from drough thus how it gives life to land. Also the rain water fills the seas, lakes and oceans, prevents from getting dried up, thus it also gives life to seas. So the rain says that it gives back life to its own origin.
-
