@@ -74,7 +74,38 @@ ANS: Carter had to cut the mummy's face and also disconnected almost all the maj
 
 ANS: The portable CT machine was donated by the manufacturer of it, The National Geographic Society and Siemens[br]
 
-[Q]16. How Tut's body was scanned? What will be done next with the data?
+[Q]16. How Tut's body was scanned? What will be done next with the data?[/Q][br]
+
+ANS: Tut's body was scanned by a CT scan machine from head to toe. Hundreds of X rays in cross section is put together in cross section and it created 1700 digital x ray images. [br]Then they used the data to create a three dimensional virtual body of Tut. A grey head took shape, Neck vertebrae, hands, rib cage, a transection of skull etc, slowly slowly got formed from the data. And then this three dimensional formation of the remains of King Tut will be given to a team of specialist in radiology, forensics and anatomy to find out the secrets of life and death of King Tut.[br]
+
+[Q]17. What is Orion?[/Q][br]
+
+ANS: Orion is a constellation. According to ancient Egyptians orion is the soul of osiris, the god of afterlife.[br]
+
+[Q]18. What actions were responsible for the comment made by Ray Johnson that "Akhenaten went a little wacky"?
+
+ANS: Akhenaten promoted the worship of Aten, changed his name. He then shifted the religious capital from Thebes to Akhetaten. Then he attacked a major god Amun, smashed his images and closed his temples. All these activities were something ususual and absurd. And that is why he said that "Akhenaten went a little wacky".[br]
+
+[Q]19. What problems were being encountered during the CT scan of king Tut? How it got resolved?[/Q][br]
+
+ANS: During the CT scan of King Tut, the scanner machine stopped working because of the sand that got inside the cooler fan.[br]
+The cooler fans were being replaced with a pair of plastic fans as a substitute and thus how the problem was being solved.[br]
+
+[Q]20. "Curse of the Pharaoh. Joked a guard nervously." DO you really believe that the referenced event that happened was a curse? Give reasons for your answer.[/Q][br]
+
+ANS: No, I don't think that the referenced event was a curse, when the body of king Tut was taken for a CT scan the scanner machine stopped working because of the sand that got inside the cooler fan.[br]
+It is not a curse because, the remains of King Tut was being taken up from the Ancient Egyptian cemetery and the place is fully surrounded by sand. Also his remains were being seperately kept in a wooden box with a padding of sand. Thus his body had huge amount of sand attached to it. When it was taken under the CT scan machine the sand got inside the cooling fan. Thus it cannot be a curse as it was something very obvious and natural.
+
 ## NCERT solution:
+
+[Q]Question 1: Give reason:[br]
+(i) King Tut's body had been subjected to repeated scrutiny.[/Q][br]
+
+ANS: King Tut had died at a very early age. Thus his body had been subjected to repeated scrutiny to find the reason and mysteries of his death.[br]
+
+[Q](ii). Howard Carter's investigation was resented.[/Q][br]
+
+ANS: When Howard Carter and his men first time 
+
 
 
