@@ -383,22 +383,16 @@ body {
     }
 }
 
-/* =====================================================================
-   MOBILE TYPOGRAPHY & SPACING
-   Reduced side padding to tighten the thick margins on phones.
-   ===================================================================== */
+/* Mobile View Adjustments */
 @media (max-width: 600px) {
     body {
         font-size: 15px;
         line-height: 1.7;
     }
-
-    /* Reduced from 20px 16px → 16px 8px */
     .content-area {
         padding: 15px;
     }
 
-    /* Topbar also contributes to the visual frame — tighten it too */
     .topbar {
         padding: 10px 12px;
     }
@@ -418,8 +412,6 @@ body {
         font-weight: 600;
     }
 
-    /* Justified text creates ugly word-gaps on narrow phones.
-       Also force zero side padding so nothing re-adds the margin. */
     .book-columns,
     .col-split-wrap .col-left,
     .col-split-wrap .col-right {
@@ -450,7 +442,6 @@ body {
         margin-bottom: 10px;
     }
 
-    /* Reduced from 14px 12px → 12px 8px */
     .book-answer-box {
         padding: 12px 8px;
         font-size: 14px;
