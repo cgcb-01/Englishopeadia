@@ -14,9 +14,8 @@ Washed their terribly transient feet. "[br] [/Q]
 [br]
 
 ANS: The Poet says about a Cardboard Image. In old days the images were framed using cradboard, so inorder to reflect that the image is very old. poet uses the word cardboard Image.
-He then describes the photo which had captured a childhood memory of her mother when she was about twelve years old. She was seen near a sea beach holding the hands of her two counsin from both side, the sea waves were washing their small feet and all three were smiling through their hair looking at the camera.
-The poet also says that the sea has changed little, inorder to say that the sea waves are iternal and 
-the childhood of er mother was very transient. The tender , small feet of her mother changed too fast and she grew up but the sea still remains the same. He portrays that the human beings are mortal whearas the sea waves still remains the same as they are eternal.
+He then describes the photo which had captured a childhood memory of her mother when she was about twelve years old. She was seen near a sea beach holding the hands of her two counsin from both side, the sea waves were washing their small feet and all three were smiling through their hair looking at the camera.[br]
+The poet also says that the sea has changed little, inorder to say that the sea waves are iternal and the childhood of his mother was very transient.[br] The tender , small feet of her mother changed too fast and she grew up but the sea still remains the same. He portrays that the human beings are mortal whearas the sea waves still remains the same as they are eternal.
 
 [br]
 
@@ -63,7 +62,7 @@ ANS: After twenty, thirty years later when Author's mother saw her counsin and h
 ANS: The sea holiday spent by Author's mother at the beach along with her counsins in her childhood was her past.
 [br]
 Around twenty to thirty years later when she again saw the Photograph she had laughed at it. That laughter of author's mother is now a past for him after his mother's death.[br]
-The photograph connected both of their Past. Author's mother recalled her childhood seeing the photograph. And author recalled his Mother's laughter years after her death, seeig the same same photograph.
+The photograph connected both of their Past. Author's mother recalled her childhood seeing the photograph. And author recalled his Mother's laughter years after her death, seeig the same photograph.
 [br]
 
 [[split]]
@@ -76,7 +75,7 @@ ANS: The poet's mother lost her childhood and the sea holiday of her at the sea 
 [Q]6. What is the meaning of the line "It's silence silences" ?[/Q]
 [br]
 
-ANS: Author's mother has died many years before. Her death, and the sadness, pain, and grief  that came into author's life after loosing his mother represents the silence. The silence in the pain and suffering coming from death is reflected here.
+ANS: Author's mother has died many years before. Her death, and the sadness, pain, and grief  that came into author's life after loosing his mother represents the silence. The silence in the pain and suffering coming from death of his mother, and the memories of author's mother that he recalled seeing the photograph made him speechless, and this is only being reflected here.
 [br]
 
 [Q]7. What comparison the poet draws between his mother and the sea?[/Q]
