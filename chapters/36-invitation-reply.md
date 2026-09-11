@@ -107,7 +107,7 @@ When You are Inviting an Eminent person or a particular individual, It would not
 >[br]
 >[br]Shri Saras Rathore
 >[br]Education Minister[br]Hyderabad[br]
->[br]Subject: Invitation to be the Chief Guest in the School's Annual Day Celebration[br]
+>[br][U]Subject: Invitation to be the Chief Guest in the School's Annual Day Celebration[/U][br]
 >[br]Respected Sir,
 >[br]It is with great honour and privilege that we extend our heartfelt invitation to you to grace the 25th Annual Day Celebration of our school as the esteemed Chief Guest.
 >The event will be held on 13th June 2025 from 2:00 p.m. at Tagore Auditorium, ABC sector, Jharkhand.[br]The occasion will be featuring a vibrant array of cultural events, followed by the grand Prize Distribution Ceremony.[br]
@@ -156,7 +156,7 @@ When You are Inviting an Eminent person or a particular individual, It would not
 >[br]President
 >[br]Literary Society, Hans Public School, Railpur
 
-[Q]9. You are Arushi/Anand, Secretary of the Fashion Design Club in your school. Create a formal letter of invitation, inviting renowned designer Piyush Bahl as chief guest to the fashion show, conceptualized and choreographed by the students themselves. Invent necessary details.[/Q]
+[Q]9. You are Arushi/Anand, Secretary of the Fashion Design Club in your school. Create a formal letter of invitation, inviting renowned designer Piyusha Bahl as chief guest to the fashion show, conceptualized and choreographed by the students themselves. Invent necessary details.[/Q]
 
 >Fashion Design Club[br]
 >ABC High School[br]
@@ -164,10 +164,10 @@ When You are Inviting an Eminent person or a particular individual, It would not
 >Kolkata, West Bengal[br]Pin: 700001[br]
 >[br]26th March,2025
 >[br]
->[br]Piyush Bahl
+>[br]Piyusha Bahl
 >[br]Eminent Designer[br]West bengal[br]
->[br]Subject: Invitation to be the Chief Guest of the event [br]
->[br]Respected Sir,
+>[br][U]Subject: Invitation to be the Chief Guest of the event[/U][br]
+>[br]Respected Mam,
 >[br]It is with great honour and privilege that we extend our heartfelt invitation to you to grace our annual event, “Fashion in Style,” organised by our School’s Fashion Design Club, as our esteemed Chief Guest.[br]
 >Your benign presence and touch of creativity and expertise would bring inspiration among the students, and would make this event a successful one.[br]
 >You are requested to kindly let us know your available dates and preferred timings. Looking forward to receiving your kind confirmation.
@@ -202,7 +202,8 @@ th June, 2022 at  7:00 p.m. at their residence, Press Nagar, Indore. Draft a rep
 >[br]18th June, 2022[br]
 >[br]Mr. Anirudh Kapoor
 >[br]Press Nagar, Indore[br]
->Subject: Acceptance of Invitation to the Marriage Ceremony[br]
+>[br][U]Subject: Acceptance of Invitation to the Marriage Ceremony[/U][br]
+>[br]Respected Sir,[br]
 >I express my sincere gratitude to Mr. and Mrs. Kapoor for extending an invitation to attend the marraige ceremony of their daughter Sania on 20th June, 2022 at 7:00 pm at their residence, Press Nagar, Indore.[br]
 >I am pleased to confirm my presence at the event. Conveying my best wishes to Sania for her new journey[br]
 >[br]Yours sincerely[br]

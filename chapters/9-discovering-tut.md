@@ -105,7 +105,8 @@ ANS: King Tut had died at a very early age. Thus his body had been subjected to 
 
 [Q](ii). Howard Carter's investigation was resented.[/Q][br]
 
-ANS: When Howard Carter and his men first time 
+ANS: When Howard Carter and his men first time found the remains of King Tut, they ran into a problem because the resins that were used during the burial rituals had hardened cementing Tut to the bottom of the gold coffin. Even by heating it to 149 degree of fahrenheit for several hours he could not seperate the mummy so they had to chisseled away the consolidated material from beneath the limbs. [br]
+Also, to protect it from the thieves they had to seperate the mummy from his adorements and in the process of doing so they removed the mummy's head and had disconnected almost all the major joints. And this had caused a huge tampering
 
 
 
