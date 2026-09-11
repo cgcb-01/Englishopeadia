@@ -91,7 +91,7 @@ ANS: Akhenaten promoted the worship of Aten, changed his name. He then shifted t
 ANS: During the CT scan of King Tut, the scanner machine stopped working because of the sand that got inside the cooler fan.[br]
 The cooler fans were being replaced with a pair of plastic fans as a substitute and thus how the problem was being solved.[br]
 
-[Q]20. "Curse of the Pharaoh. Joked a guard nervously." DO you really believe that the referenced event that happened was a curse? Give reasons for your answer.[/Q][br]
+[Q]20. "Curse of the Pharaoh. Joked a guard nervously." Do you really believe that the referenced event that happened was a curse? Give reasons for your answer.[/Q][br]
 
 ANS: No, I don't think that the referenced event was a curse, when the body of king Tut was taken for a CT scan the scanner machine stopped working because of the sand that got inside the cooler fan.[br]
 It is not a curse because, the remains of King Tut was being taken up from the Ancient Egyptian cemetery and the place is fully surrounded by sand. Also his remains were being seperately kept in a wooden box with a padding of sand. Thus his body had huge amount of sand attached to it. When it was taken under the CT scan machine the sand got inside the cooling fan. Thus it cannot be a curse as it was something very obvious and natural.
@@ -103,14 +103,16 @@ It is not a curse because, the remains of King Tut was being taken up from the A
 
 ANS: King Tut had died at a very early age. Thus his body had been subjected to repeated scrutiny to find the reason and mysteries of his death.[br]
 
-[Q](ii). Howard Carter's investigation was resented.[/Q][br]
+[Q] (ii). Howard Carter's investigation was resented.[/Q][br]
 
 ANS: When Howard Carter and his men first time found the remains of King Tut, they ran into a problem because the resins that were used during the burial rituals had hardened cementing Tut to the bottom of the gold coffin. Even by heating it to 149 degree of fahrenheit for several hours he could not seperate the mummy so they had to chisseled away the consolidated material from beneath the limbs. [br]
 Also, to protect it from the thieves they had to seperate the mummy from his adorements and in the process of doing so they removed the mummy's head and had disconnected almost all the major joints. And this had caused a huge tampering with the actual remains of the King Tut. This might had destroyed many evidences that could have revealed the mysteries of life and death of King Tut. So his investigation was resented[br]
 
-[Q](iii). Carter had to chiselled away the solidified remains to raise the King's remains[/Q][br]
+[Q] (iii). Carter had to chiselled away the solidified remains to raise the King's remains[/Q][br]
 
 ANS: The resins that were being used during the burial ceremony had dried up cementing the remains of Tut's body to the bottom of the coffin, and by any measures and any amount of force, he could not detach the mummy from the resins, so he had to chiselled away the solidified consolidated resin from beneath the limbs and trunks to detach the mummy from the coffin.[br]
+
+[Q]
 
 
 
