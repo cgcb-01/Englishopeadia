@@ -1,4 +1,4 @@
-**By Shirley Toulson**
+**Written By: Shirley Toulson**
 
 ## Understanding the Text
 
@@ -15,7 +15,7 @@ Washed their terribly transient feet. "[br] [/Q]
 
 ANS: The Poet says about a Cardboard Image. In old days the images were framed using cradboard, so inorder to reflect that the image is very old. poet uses the word cardboard Image.
 He then describes the photo which had captured a childhood memory of her mother when she was about twelve years old. She was seen near a sea beach holding the hands of her two counsin from both side, the sea waves were washing their small feet and all three were smiling through their hair looking at the camera.[br]
-The poet also says that the sea has changed little, inorder to say that the sea waves are iternal and the childhood of his mother was very transient.[br] The tender , small feet of her mother changed too fast and she grew up but the sea still remains the same. He portrays that the human beings are mortal whearas the sea waves still remains the same as they are eternal.
+The poet also says that the sea has changed little, inorder to say that the sea waves are iternal and the childhood of his mother was very transient.[br] The tender , small feet of her mother changed too fast and she grew up but the sea still remained the same. He portrays that the human beings are mortal whearas the sea waves are eternal.
 
 [br]
 
@@ -56,7 +56,7 @@ ANS: The camera captured a childhood scene of author's mother when she was about
 
 ANS: After twenty, thirty years later when Author's mother saw her counsin and her childhood photo again in the photograph, she laughed at it. She laughed at how they were being dressed at that time for the beach.[br]
 
-[Q]4. What are the past memories ofr Author and his Mother? What connected bothe of their past?[/Q]
+[Q]4. What are the past memories of the Author and his Mother? What connected both of their past?[/Q]
 [br]
 
 ANS: The sea holiday spent by Author's mother at the beach along with her counsins in her childhood was her past.

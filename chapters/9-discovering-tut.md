@@ -1,6 +1,8 @@
+**Written By : A.R Williams**
+
 ## Justification of the Title
 
-In the story the author reflects how the remains of King Tut was found out by the archealogist, the tradition of the peoples of ancient Egypt, the details of the investigations done by the Howard Carter who first time discovered the Pharaoh's grave. [br] The story was states that King Tut's remains were subjected to X ray scan and also CT scan, done to find out the mysteries of life and death of King Tut. So the author not only talked about discovering Tut by finding the remains of him from the Egyptian valley of kings but also talked about how people tried many modern forensic methods to discover other possible mysteries regarding the life of Tut, the reaosn behind his untimely death. So the title says 'Discovering Tut'. [br]Also since they are still discovering and unfolding many mysteries thus they says that saga or the story of the King continues.[br]
+In the story the author reflects how the remains of King Tut was found out by the archeaologist, the tradition of the peoples of ancient Egypt and the details of the investigations done by the Howard Carter who first time discovered the Pharaoh's grave. [br] The story also states that King Tut's remains were subjected to X ray scan and CT scan to find out the mysteries of life and death of King Tut. So the author not only talked about discovering Tut by finding the remains of him from the Egyptian valley of kings but also talked about how people tried many modern forensic methods to discover other possible mysteries regarding the life of Tut, the reason behind his untimely death. So the title says 'Discovering Tut'. [br]Also since they are still discovering and unfolding many mysteries thus they says that saga or the story of the King continues.[br]
 
 ## NCERT Questions Solution:
 
@@ -144,60 +146,70 @@ It is not a curse because, the remains of King Tut was being taken up from the A
 ## Multiple Choice Question: 
 
 [Q]Q1. The tomb of King Tut was discovered in the year?[/Q][br]
+
 a) 1922[br]
 b) 1980[br]
 c) 1920[br]
 d) 2005[br]
 
 [Q]Q2. After his burial till the time he was taken for CT scan, how many times was he taken out from his grave?[/Q][br]
+
 a) 2[br]
 b) 3[br]
 c) 4[br]
 d) 1[br]
 
 [Q]Q3. At which date was King Tut taken for a CT scan?[/Q][br]
+
 a) 25th January, 2005[br]
 b) 5th January 2005[br]
 c) 25th January 2000[br]
 d) 5th January 1922[br]
 
 [Q]Q4. Who was responsible for the bad condition of the mummy?[/Q][br]
+
 a) Howard Carter[br]
 b) Zahi Hawass[br]
 c) Guards[br]
 d) Aten[br]
 
 [Q]Q5. What things were missing in the mummy as found by the X-ray scan?[/Q][br]
+
 a) Lower ribs and breast bone[br]
 b) Front ribs and breast bone[br]
 c) Lower limb bone[br]
 d) Both b and c
 
 [Q]Q6. Statement 1: The men of Howard Carter removed the head of the mummy.[br]Statement 2: They wanted to remove the gold adornments.[br]Statement 3: They were fearful of thieves.[/Q][br]
+
 a) All are correct, statement 2 is the reason for 1 and statement 3 is the reason for 2[br]
 b) Statement 1 and 2 are correct and 2 is the reason for 1[br]
 c) All are incorrect[br]
 d) All are correct but 3 is not the reason for 2
 
 [Q]Q7. The CT scan machine was donated by?[/Q][br]
+
 a) The manufacturer[br]
 b) National Science Organisation[br]
 c) Zahi Hawass[br]
 d) Not donated
 
 [Q]Q8. What was there in the first layer of the nested coffin?[/Q][br]
+
 a) Flowers and leaves[br]
 b) The daily usable items of the King[br]
 c) The mummy[br]
 d) No proper information was provided
 
 [Q]Q9. Akhenaten changed the religious capital to?[/Q][br]
+
 a) Akhenaten[br]
 b) Akheaten[br]
 c) Akhetamun[br]
 d) Thames
 
 [Q]Q10. Akhenaten attacked which god?[/Q][br]
+
 a) Aten[br]
 b) Amun[br]
 c) Amarna[br]
@@ -205,6 +217,7 @@ d) Athenois
 
 
 [Q]Q11. Who led the mummy for an X-ray scan?[/Q][br]
+
 a) An Anatomy professor[br]
 b) Zahi Hawass[br]
 c) Howard Carter[br]
