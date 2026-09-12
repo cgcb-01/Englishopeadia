@@ -34,7 +34,7 @@
   "33": { "id": "33", "title": "Speech Writing", "class": "11", "category": "Class 11 Grammar", "icon": "fa-microphone-alt", "file": "33-speech-writing.md" },
   "34": { "id": "34", "title": "Long Writing: Debate, Narrative, Descriptive", "class": "11", "category": "Class 11 Grammar", "icon": "fa-pen-fancy", "file": "34-long-writing.md" },
 
-  "35": { "id": "35", "title": "CBSE: Notice Writing", "class": "11", "category": "Class 12 Grammar", "icon": "fa-pen-fancy", "file": "35-notice-writing.md" },
+  "35": { "id": "35", "title": "Notice Writing", "class": "11", "category": "Class 12 Grammar", "icon": "fa-pen-fancy", "file": "35-notice-writing.md" },
   
    "36": { "id": "36", "title": "CBSE 12: Invitation and Reply", "class": "12", "category": "Class 12 Grammar", "icon": "fa-pen-fancy", "file": "36-invitation-reply.md" },
 
