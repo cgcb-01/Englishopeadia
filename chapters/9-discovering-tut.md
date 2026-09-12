@@ -128,7 +128,9 @@ Also, to protect it from the thieves they had to seperate the mummy from his ado
 
 >ANS: After the CT scan 1700 digital x-ray images were being produced in cross section. And from these images a three dimensional figure of king Tut was being generated. A grey color three dimansional representation of his head, neck vertebrae, hands, rib cage, and a trasection of his skull was formed from the scan, as being informed by the author in the story.[br]
 
->[Q] (iii)
+>[Q] (iii) List the advances in technology that have improved forensic analysis.[/Q]
+
+>ANS: The modern forensics has started using many modern technologies like X rays, CT scan machine to find out the intricate details of the person, and also any traces of weapons attack that affected the bones. They uses carbon dating to find out the time of death, DNA testing and fingerprinting technology to find blood relations. Not only these they uses modern computer Algorithms and databases searching, Artificial Intelligence, and chemical testing to find out various mysteries behind the death of a person.[br] 
 
 >[Q] (iv) Explain the statement "King Tut is one of the first mummies to be scanned - in life and death"[/Q][br]
 
