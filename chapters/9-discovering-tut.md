@@ -1,6 +1,50 @@
-## Reference Question:
+## Justification of the Title
 
-[Q]1. when was the tomb of the pharaoh was being discovered and by whom? [/Q]
+In the story the author reflects how the remains of King Tut was found out by the archealogist, the tradition of the peoples of ancient Egypt, the details of the investigations done by the Howard Carter who first time discovered the Pharaoh's grave. [br] The story was states that King Tut's remains were subjected to X ray scan and also CT scan, done to find out the mysteries of life and death of King Tut. So the author not only talked about discovering Tut by finding the remains of him from the Egyptian valley of kings but also talked about how people tried many modern forensic methods to discover other possible mysteries regarding the life of Tut, the reaosn behind his untimely death. So the title says 'Discovering Tut'. [br]Also since they are still discovering and unfolding many mysteries thus they says that saga or the story of the King continues.[br]
+
+## NCERT Questions Solution:
+
+[Q]Question 1: Give reason:[br]
+(i) King Tut's body had been subjected to repeated scrutiny.[/Q][br]
+
+ANS: King Tut had died at a very early age. Thus his body had been subjected to repeated scrutiny to find the reason and mysteries of his death.[br]
+
+[Q] (ii) Howard Carter's investigation was resented.[/Q][br]
+
+ANS: When Howard Carter and his men first time found the remains of King Tut, they ran into a problem because the resins that were used during the burial rituals had hardened cementing Tut to the bottom of the gold coffin. Even by heating it to 149 degree of fahrenheit for several hours he could not seperate the mummy so they had to chisseled away the consolidated material from beneath the limbs. [br]
+Also, to protect it from the thieves they had to seperate the mummy from his adorements and in the process of doing so they removed the mummy's head and had disconnected almost all the major joints. And this had caused a huge tampering with the actual remains of the King Tut. This might had destroyed many evidences that could have revealed the mysteries of life and death of King Tut. So his investigation was resented[br]
+
+[Q] (iii) Carter had to chiselled away the solidified remains to raise the King's remains[/Q][br]
+
+ANS: The resins that were being used during the burial ceremony had dried up cementing the remains of Tut's body to the bottom of the coffin, and by any measures and any amount of force, he could not detach the mummy from the resins, so he had to chiselled away the solidified consolidated resin from beneath the limbs and trunks to detach the mummy from the coffin.[br]
+
+[Q] (iv) Tut's body was buried along with glided treasures[/Q][br]
+
+ANS: During the time of ancient Egypt, the royals used to think or hope that they will be able to take their riches along with them. So king Tut was buried along with glided treasures as they believed that by this way they will be able to take it for his afterlife or his journey after death.[br]
+
+[Q] (v) The boy king changed his name from tutankhaten to Tutankhamun[/Q][br]
+
+ANS: King Tut wanted to restore and bring back the old principles and practices and traditions as followed by Amun. He was inspired by him and thus changed his name to Tutankhamun which means a living image of Amun.[br]
+
+[Q]Question 2:[br] (i) List the deeds that led Ray Johnson to describe Akhenaten as wacky[/Q][br]
+
+ANS: Akhenaten promoted the worship of Aten, changed his name Akhenaten which means the servant of Aten. He then shifted the religious capital from Thebes to Akhetaten. Not only this he had also attacked a major god Amun, smashed his images and closed his temples. All these activities were something ususual, horrific and absurd. And that is why he said that "Akhenaten went a little wacky"[br]
+
+[Q] (ii) What were the results of the CT scan?[/Q][br]
+
+ANS: After the CT scan 1700 digital x-ray images were being produced in cross section. And from these images a three dimensional figure of king Tut was being generated. A grey color three dimansional representation of his head, neck vertebrae, hands, rib cage, and a trasection of his skull was formed from the scan, as being informed by the author in the story.[br]
+
+[Q] (iii) List the advances in technology that have improved forensic analysis.[/Q]
+
+ANS: The modern forensics has started using many modern technologies like X rays, CT scan machine to find out the intricate details of the person, and also any traces of weapons attack that affected the bones. They uses carbon dating to find out the time of death, DNA testing and fingerprinting technology to find blood relations. Not only these they uses modern computer Algorithms and databases searching, Artificial Intelligence, and chemical testing to find out various mysteries behind the death of a person.[br] 
+
+[Q] (iv) Explain the statement "King Tut is one of the first mummies to be scanned - in life and death"[/Q][br]
+
+ANS: There were no CT scan machine during the time of ancient Egyptians. So none of the mummies had ever been scanned when they were alive. [br]Also, King Tut was the one of the first mummy to be scanned using a CT scan machine, so one of the first to be scanned in death.[br]
+
+## Important Short Questions:
+
+[Q]1. When was the tomb of the pharaoh was being discovered and by whom? [/Q]
 [br]
 
 ANS: The tomb of the Pharaoh was being discovered in 1922 by Howard carter.
@@ -82,7 +126,7 @@ ANS: Tut's body was scanned by a CT scan machine from head to toe. Hundreds of X
 
 ANS: Orion is a constellation. According to ancient Egyptians orion is the soul of osiris, the god of afterlife.[br]
 
-[Q]18. What actions were responsible for the comment made by Ray Johnson that "Akhenaten went a little wacky"?
+[Q]18. What actions were responsible for the comment made by Ray Johnson that "Akhenaten went a little wacky"?[/Q][br]
 
 ANS: Akhenaten promoted the worship of Aten, changed his name. He then shifted the religious capital from Thebes to Akhetaten. Then he attacked a major god Amun, smashed his images and closed his temples. All these activities were something ususual and absurd. And that is why he said that "Akhenaten went a little wacky".[br]
 
@@ -96,49 +140,28 @@ The cooler fans were being replaced with a pair of plastic fans as a substitute 
 ANS: No, I don't think that the referenced event was a curse, when the body of king Tut was taken for a CT scan the scanner machine stopped working because of the sand that got inside the cooler fan.[br]
 It is not a curse because, the remains of King Tut was being taken up from the Ancient Egyptian cemetery and the place is fully surrounded by sand. Also his remains were being seperately kept in a wooden box with a padding of sand. Thus his body had huge amount of sand attached to it. When it was taken under the CT scan machine the sand got inside the cooling fan. Thus it cannot be a curse as it was something very obvious and natural.
 
-## NCERT solution:
 
-[Q]Question 1: Give reason:[br]
-(i) King Tut's body had been subjected to repeated scrutiny.[/Q][br]
+## Multiple Choice Question: 
 
-ANS: King Tut had died at a very early age. Thus his body had been subjected to repeated scrutiny to find the reason and mysteries of his death.[br]
+>Q1. The tomb of King Tut was discovered in the year?(1922,1980,1920, 2005)
+>Q2. After his burial till the time he was taken for CT scan how many times he was take out from his grave?(2,3, 4, 1)
 
-[Q] (ii) Howard Carter's investigation was resented.[/Q][br]
+>Q3. At which date King Tut was taken for a CT scan?
+>Q4. Who was responsible for the bad condition of the mummy? (Howard Carter)
+>Q5. Who led the mummy for a X ray scan? (An Anatomy professor, Zahi Hawass, Howard Carter, A forensic Expert)
 
-ANS: When Howard Carter and his men first time found the remains of King Tut, they ran into a problem because the resins that were used during the burial rituals had hardened cementing Tut to the bottom of the gold coffin. Even by heating it to 149 degree of fahrenheit for several hours he could not seperate the mummy so they had to chisseled away the consolidated material from beneath the limbs. [br]
-Also, to protect it from the thieves they had to seperate the mummy from his adorements and in the process of doing so they removed the mummy's head and had disconnected almost all the major joints. And this had caused a huge tampering with the actual remains of the King Tut. This might had destroyed many evidences that could have revealed the mysteries of life and death of King Tut. So his investigation was resented[br]
+>Q6. What things were missing in the mummy as found by the X ray scan? (lower ribs and breast bone, front ribs and breast bone, lower limb bone, both b and c)
 
-[Q] (iii) Carter had to chiselled away the solidified remains to raise the King's remains[/Q][br]
+>Q7. Statement 1: The men of Howard carter removed the head of the mummy[br] Statement 3: They were fearful of theives[br] Statement 2: They wanted to remove the gold adorements
+>(All are correct, statement 2 is the reason of 1 and statement 3 is the reason for 2), (Statement 1 and 2 are correct and 2 is the reason for 1),(All the incorrect), (All are correct but 3 is not the reason for 2)
 
->ANS: The resins that were being used during the burial ceremony had dried up cementing the remains of Tut's body to the bottom of the coffin, and by any measures and any amount of force, he could not detach the mummy from the resins, so he had to chiselled away the solidified consolidated resin from beneath the limbs and trunks to detach the mummy from the coffin.[br]
+>Q8. The CT scan machine was donated by?(The manufacturer, National science organsation, Zahi Hawass, Not donated)
 
-[Q] (iv) Tut's body was buried along with glided treasures[/Q][br]
+>Q9. What was there in the first layer of the nested coffin? (Flowers and leaves, The daily usable items of the King, the mummy, No proper information was provided)
 
->ANS: During the time of ancient Egypt, the royals used to think or hope that they will be able to take their riches along with them. So king Tut was buried along with glided treasures as they believed that by this way they will be able to take it for his afterlife or his journey after death.[br]
+>Q10. Akhenaten changed the religious capital to?(Akhenaten, Akheaten, Akhetamun, Thames)
 
->[Q] (v) The boy king changed his name from tutankhaten to Tutankhamun[/Q][br]
+>Q10. Akhenaten attacked which god?(Aten, Amun, Amarna, Athenois)
 
->ANS: King Tut wanted to restore and bring back the old principles and practices and traditions as followed by Amun. He was inspired by him and thus changed his name to Tutankhamun which means a living image of Amun.[br]
-
->[Q]Question 2:[br] (i) List the deeds that led Ray Johnson to describe Akhenaten as wacky[/Q][br]
-
->ANS: Akhenaten promoted the worship of Aten, changed his name Akhenaten which means the servant of Aten. He then shifted the religious capital from Thebes to Akhetaten. Not only this he had also attacked a major god Amun, smashed his images and closed his temples. All these activities were something ususual, horrific and absurd. And that is why he said that "Akhenaten went a little wacky"[br]
-
->[Q] (ii) What were the results of the CT scan?[/Q][br]
-
->ANS: After the CT scan 1700 digital x-ray images were being produced in cross section. And from these images a three dimensional figure of king Tut was being generated. A grey color three dimansional representation of his head, neck vertebrae, hands, rib cage, and a trasection of his skull was formed from the scan, as being informed by the author in the story.[br]
-
->[Q] (iii) List the advances in technology that have improved forensic analysis.[/Q]
-
->ANS: The modern forensics has started using many modern technologies like X rays, CT scan machine to find out the intricate details of the person, and also any traces of weapons attack that affected the bones. They uses carbon dating to find out the time of death, DNA testing and fingerprinting technology to find blood relations. Not only these they uses modern computer Algorithms and databases searching, Artificial Intelligence, and chemical testing to find out various mysteries behind the death of a person.[br] 
-
->[Q] (iv) Explain the statement "King Tut is one of the first mummies to be scanned - in life and death"[/Q][br]
-
->ANS: There were no CT scan machine during the time of ancient Egyptians. So none of the mummies had ever been scanned when they were alive. [br]Also, King Tut was the one of the first mummy to be scanned using a CT scan machine, so one of the first to be scanned in death.[br]
-
->#Justification of the Title
-
->In the story the author reflects how the remains of King Tut was found out by the archealogist, the tradition of the peoples of ancient Egypt, the details of the investigations done by the Howard Carter who first time discovered the Pharaoh's grave. [br] The story was states that King Tut's remains were subjected to X ray scan and also CT scan, done to find out the mysteries of life and death of King Tut. So the author not only talked about discovering Tut by finding the remains of him from the Egyptian valley of kings but also talked about how people tried many modern forensic methods to discover other possible mysteries regarding the life of Tut, the reaosn behind his untimely death. So the title says 'Discovering Tut'. [br]Also since they are still discovering and unfolding many mysteries thus they says that saga or the story of the King continues.
-
-
+>Q11. 
 
