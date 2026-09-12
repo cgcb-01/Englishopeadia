@@ -143,25 +143,69 @@ It is not a curse because, the remains of King Tut was being taken up from the A
 
 ## Multiple Choice Question: 
 
->Q1. The tomb of King Tut was discovered in the year?(1922,1980,1920, 2005)
->Q2. After his burial till the time he was taken for CT scan how many times he was take out from his grave?(2,3, 4, 1)
+[Q]Q1. The tomb of King Tut was discovered in the year?[/Q][br]
+a) 1922[br]
+b) 1980[br]
+c) 1920[br]
+d) 2005[br]
 
->Q3. At which date King Tut was taken for a CT scan?
->Q4. Who was responsible for the bad condition of the mummy? (Howard Carter)
->Q5. Who led the mummy for a X ray scan? (An Anatomy professor, Zahi Hawass, Howard Carter, A forensic Expert)
+[Q]Q2. After his burial till the time he was taken for CT scan, how many times was he taken out from his grave?[/Q][br]
+a) 2[br]
+b) 3[br]
+c) 4[br]
+d) 1[br]
 
->Q6. What things were missing in the mummy as found by the X ray scan? (lower ribs and breast bone, front ribs and breast bone, lower limb bone, both b and c)
+[Q]Q3. At which date was King Tut taken for a CT scan?[/Q][br]
+a) 25th January, 2005[br]
+b) 5th January 2005[br]
+c) 25th January 2000[br]
+d) 5th January 1922[br]
 
->Q7. Statement 1: The men of Howard carter removed the head of the mummy[br] Statement 3: They were fearful of theives[br] Statement 2: They wanted to remove the gold adorements
->(All are correct, statement 2 is the reason of 1 and statement 3 is the reason for 2), (Statement 1 and 2 are correct and 2 is the reason for 1),(All the incorrect), (All are correct but 3 is not the reason for 2)
+[Q]Q4. Who was responsible for the bad condition of the mummy?[/Q][br]
+a) Howard Carter[br]
+b) Zahi Hawass[br]
+c) Guards[br]
+d) Aten[br]
 
->Q8. The CT scan machine was donated by?(The manufacturer, National science organsation, Zahi Hawass, Not donated)
+[Q]Q5. What things were missing in the mummy as found by the X-ray scan?[/Q][br]
+a) Lower ribs and breast bone[br]
+b) Front ribs and breast bone[br]
+c) Lower limb bone[br]
+d) Both b and c
 
->Q9. What was there in the first layer of the nested coffin? (Flowers and leaves, The daily usable items of the King, the mummy, No proper information was provided)
+[Q]Q6. Statement 1: The men of Howard Carter removed the head of the mummy.[br]Statement 2: They wanted to remove the gold adornments.[br]Statement 3: They were fearful of thieves.[/Q][br]
+a) All are correct, statement 2 is the reason for 1 and statement 3 is the reason for 2[br]
+b) Statement 1 and 2 are correct and 2 is the reason for 1[br]
+c) All are incorrect[br]
+d) All are correct but 3 is not the reason for 2
 
->Q10. Akhenaten changed the religious capital to?(Akhenaten, Akheaten, Akhetamun, Thames)
+[Q]Q7. The CT scan machine was donated by?[/Q][br]
+a) The manufacturer[br]
+b) National Science Organisation[br]
+c) Zahi Hawass[br]
+d) Not donated
 
->Q10. Akhenaten attacked which god?(Aten, Amun, Amarna, Athenois)
+[Q]Q8. What was there in the first layer of the nested coffin?[/Q][br]
+a) Flowers and leaves[br]
+b) The daily usable items of the King[br]
+c) The mummy[br]
+d) No proper information was provided
 
->Q11. 
+[Q]Q9. Akhenaten changed the religious capital to?[/Q][br]
+a) Akhenaten[br]
+b) Akheaten[br]
+c) Akhetamun[br]
+d) Thames
 
+[Q]Q10. Akhenaten attacked which god?[/Q][br]
+a) Aten[br]
+b) Amun[br]
+c) Amarna[br]
+d) Athenois 
+
+
+[Q]Q11. Who led the mummy for an X-ray scan?[/Q][br]
+a) An Anatomy professor[br]
+b) Zahi Hawass[br]
+c) Howard Carter[br]
+d) A forensic Expert
